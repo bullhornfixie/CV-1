@@ -1,5 +1,6 @@
 ## Jonathan Dawson
 
+#### Who I Am
 From an early age, I was a tinkerer. Whether it was a failing speaker, an unsynchoronised 1210 turntable, or misfiring kart engine, I would be hastily reaching for the
 toolbox and lifting a panel to look inside and understand how it worked and whether I could fix it? I gained enjoyment from learning how the components interacted with one 
 another, the satisfaction of identifying the fault and the tangibility of reassambling. When I left school my path gravitated towards engineering and during my 2 year course, 
