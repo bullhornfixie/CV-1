@@ -1,6 +1,15 @@
-## Your Name
+## Jonathan Dawson
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+From an early age, I was a tinkerer. Whether it was a failing speaker, an unsynchoronised 1210 turntable, or misfiring kart engine, I would be hastily reaching for the
+toolbox and lifting a panel to look inside and understand how it worked and whether I could fix it? I gained enjoyment from learning how the components interacted with one 
+another, the satisfaction of identifying the fault and the tangibility of reassambling. When I left school my path gravitated towards engineering and during my 2 year course, 
+I was fortunate enough to have internships with Ferrari and a British Touring Car Team. 
+
+For the last 5 years, I have worked in financial services as a company director and technician for re-structuring investment and pension assets. Whilst earnings were increasing, my interest was declining and I found myself seeking a channel for creativity, design, and a platform which supports innovation and craft...make way for programming. Having initially tested the waters with Python in 2019, there was an early realisation that I had found a new path which met all of the above but also homed the mathematical and analytical side of my brain.
+
+Having emerged from the Makers Academy bootcamp, I'm still enjoying the discovery of Ruby and what the language can do. I'm now looking for my first role as a Junior 
+Developer and I hope to work with others who are ambassadors of clean code and smooth running engines.
+
 
 ## Projects
 
