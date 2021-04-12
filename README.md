@@ -30,10 +30,20 @@ I am now looking for my first developer role and please and feel free to contact
  Name                                                              | Description                                                                                                                                                                                                                                          | Tech/tools                           |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
 | [Spring Onion](https://github.com/bullhornfixie/First-MobileApp-With-ReactNative) | A mobile app to track users carbon emissions for a car journey and offset by making a donation to a green charity.                                                    | React Native, Javascript      |
-| [Bank Account](https://github.com/bullhornfixie/tech-test-wk10-Makers)  | Final tech test for Makers. The purpose of this bank script is to print out a statement for a user, given their activity, like a real bank.Designed to allow customers to use usual bank account features such as credit/debiting an account and viewing the transcations.                                           | JavaScript,  Jasmine          |
+| [Bank Account](https://github.com/bullhornfixie/tech-test-wk10-Makers)  | Final tech test for Makers. The purpose of this bank script is to print out a statement for a user, given their activity, like a real bank. Designed to allow customers to use usual bank account features such as credit/debiting an account and viewing the transcations.                                           | JavaScript,  Jasmine          |
 | [Acebook](https://github.com/bullhornfixie/acebook-BBB)   | A Facebook clone built using Ruby On Rails, PostGresSQL to manage user messages and deployed on Heroku. Users can create an account, make, edit, and delete posts, like posts, find and add friends.                    | Ruby On Rails, Ruby           |
 
 ## Skills
+
+### Communication 
+Frequent, clear, and concise.
+
+### Attention To Detail
+Having previously managed client's investments, a single digit out of place or incorrect fund code when making trades could be hugely costly for the client. This acute level of attention to detail is a skill I have transferred to my code - thorough testing frameworks, clear function naming and clean code. Review of my tech tests at Makers:
+
+[Tech Test Review](https://github.com/bullhornfixie/tech-test2-WK10-Makers)
+*"Nice work on covering the existing code with tests before getting started with the refactoring!"*
+*"Nice use of switches to make really well readable methods, over if/elses. I think your methods in GildedRose are really concise and cleanly written ~ Makers Coach"
 
 ## Experience
 
