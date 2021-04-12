@@ -11,11 +11,11 @@ My new path in software engineering gives me a platform to turn concepts into re
 
 ## Recent Projects 
 
-| Name           | Description                                        | Tech/tools        |
-| -------------- | -------------------------------------------------- | ----------------- |
-| Spring Onion   | A mobile app to track users carbon emissions         * React Native.   |
-|                  for a car journey and offset by making a donation.   * JavaScript.     |
-|                  to a green charity.                                |                   |       
+| Name           | Description                                            | Tech/tools        |
+| -------------- | ------------------------------------------------------ | ----------------- |
+| Spring Onion   | A mobile app to track users carbon emissions <br>.     | * React Native.   |
+|                | for a car journey and offset by making a donation <br> | * JavaScript.     |
+|                | to a green charity.                                    |                   |       
 
 ## Experience
 
