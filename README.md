@@ -15,12 +15,15 @@
 
 ## Summary
 
+### Where I'm At.
 I am an enthusiastic developer who graduated from [Makers Academy](https://makers.tech) in March 2021. The syallabus encapsulates the skills modern employers are seeking in the next generation of tech talent - solid developement process, team work, creativity, strong debugging ability and emotional intellegence. 
 
 My strongest skills are React, TDD, Ruby, JavaScript and currently enhancing my proficiency in JavaScript and SQL.  
 
+### Where I've Been.
 Since 2004, I’ve enjoyed a successful career in financial services as a portfolio manager, financial planner and operations director. I am highly numerate and love working with figures, however, over the last few years, I found myself yearning for a new challenge and dimensions to my daily role.
 
+### Where I'm Going.
 Having graduated, I am excited for a new path in software engineering which offers a platform to turn concepts into reality through teamwork, design, problem solving and engineering - three disciplines that are rooted in me from my college years as a mechanical engineer. 
 
 I am now looking for my first developer role and please and feel free to contact me regarding any opportunities!
