@@ -39,11 +39,11 @@ I am now looking for my first developer role and please and feel free to contact
 Frequent, clear, and concise.
 
 ### Attention To Detail
-Having previously managed client's investments, a single digit out of place or incorrect fund code when making trades could be hugely costly for the client. This acute level of attention to detail is a skill I have transferred to my code - thorough testing frameworks, clear function naming and clean code. Review of my tech tests at Makers:
+Having previously managed client's investments, a single digit out of place or incorrect fund code when making trades could be hugely costly for the client. This acute level of attention to detail is a skill I have transferred to my code - thorough testing frameworks, clear function naming and clean code. 
 
-[Tech Test Review](https://github.com/bullhornfixie/tech-test2-WK10-Makers)
-*"Nice work on covering the existing code with tests before getting started with the refactoring!"*
-*"Nice use of switches to make really well readable methods, over if/elses. I think your methods in GildedRose are really concise and cleanly written ~ Makers Coach"
+[Makers Tech Test Review](https://github.com/bullhornfixie/tech-test2-WK10-Makers)
+*"Nice work on covering the existing code with tests before getting started with the refactoring!"
+"Nice use of switches to make really well readable methods, over if/elses. I think your methods in GildedRose are really concise and cleanly written ~ Makers Coach"*
 
 ## Experience
 
