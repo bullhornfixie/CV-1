@@ -1,71 +1,38 @@
-## Jonathan Dawson
+<h1 align="center">Jonathan Dawson CV</h1>
 
-#### Who I Am
-I am a enthusiastic junior developer who graduated from the ‘fast paced’ Makers London Academy in March 2021. Our training prepares students for the real work of product development - focusing on process and team work.
+<div align="center">
 
-Post Graduation, I am focused on developing my abilities in JavaScript, React and SQL.
+[My LinkedIn](https://www.linkedin.com/in/jondawson87/)
 
-Since 2004, I’ve enjoyed a successful career in financial services as a portfolio manager, financial planner and operations director. 
+[Summary](#summary)|
+[Projects ](#projects) |
+[Skills ](#skills) |
+[Experience ](#experience) |
+[Education ](#education) |
+[Hobbies ](#hobbies)
 
-My new path in software engineering gives me a platform to turn concepts into reality through design, problem solving and engineering - three disciplines that are rooted in me from my college years as a mechanical engineer.
+</div>
 
-## Recent Projects 
+## Summary
 
-| Name           | Description                                            | Tech/tools        |
-| -------------- | ------------------------------------------------------ | ----------------- |
-| Spring Onion   | A mobile app to track users carbon emissions <br>.     | * React Native.   |
-|                | for a car journey and offset by making a donation <br> | * JavaScript.     |
-|                | to a green charity.                                    |                   |       
+I am an enthusiastic developer who graduated from [Makers Academy](https://makers.tech) in March 2021. The syallabus encapuslates the skills modern employers are seeking in the next generation of tech talent - solid developement process, team work, creativity, strong debugging ability and emotional intellegence. 
 
-## Experience
+My strongest skills are React, TDD, Ruby, JavaScript and currently enhancing my proficiency in JavaScript and SQL.  
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+Since 2004, I’ve enjoyed a successful career in financial services as a portfolio manager, financial planner and operations director. I am highly numerate and love working with figures, however, over the last few years, I found myself yearning for a new challenge and dimensions to my daily role.
 
-- Any experience relevent to software development
+Having graduated, I am excited for a new path in software engineering which offers a platform to turn concepts into reality through teamwork, design, problem solving and engineering - three disciplines that are rooted in me from my college years as a mechanical engineer. 
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+I am now looking for my first developer role and please and feel free to contact regarding any opportunities!
 
-- Any experience relevent to software development
+## Projects
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+## Experience
 
 ## Education
 
-#### Makers Academy (01/12/2020 - 31/03/2021)
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
-
 ## Hobbies
+
 
