@@ -45,6 +45,9 @@ Having previously managed client's investments, a single digit out of place or i
 *"Nice work on covering the existing code with tests before getting started with the refactoring!"
 "Nice use of switches to make really well readable methods, over if/elses. I think your methods in GildedRose are really concise and cleanly written ~ Makers Coach"*
 
+### Problem Solving 
+When I left school, I studied mechnical engineering at college and fault finding/solving became an invaluable life skill which has been enriched since my coding journey. My strength is being able to narrow down where the problem lies in the code and then break down each element to understand the flow. As a highly visual person, sometimes a pen and notepad is my best tool in the box!
+
 ## Experience
 
 ## Education
