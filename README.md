@@ -1,23 +1,21 @@
 ## Jonathan Dawson
 
 #### Who I Am
-From an early age, I was a tinkerer. Whether it was a failing speaker, an unsynchoronised 1210 turntable, or misfiring kart engine, I would be hastily reaching for the
-toolbox and lifting a panel to look inside and understand how it worked and whether I could fix it? I gained enjoyment from learning how the components interacted with one 
-another, the satisfaction of identifying the fault and the tangibility of reassambling. When I left school my path gravitated towards engineering and during my 2 year course, 
-I was fortunate enough to have internships with Ferrari and a British Touring Car Team. 
+I am a enthusiastic junior developer who graduated from the ‘fast paced’ Makers London Academy in March 2021. Our training prepares students for the real work of product development - focusing on process and team work.
 
-For the last 5 years, I have worked in financial services as a company director and technician for re-structuring investment and pension assets. Whilst earnings were increasing, my interest was declining and I found myself seeking a channel for creativity, design, and a platform which supports innovation and craft...make way for programming. Having initially tested the waters with Python in 2019, there was an early realisation that I had found a new path which met all of the above but also homed the mathematical and analytical side of my brain.
+Post Graduation, I am focused on developing my abilities in JavaScript, React and SQL.
 
-Having emerged from the Makers Academy bootcamp, I'm still enjoying the discovery of Ruby and what the language can do. I'm now looking for my first role as a Junior 
-Developer and I hope to work with others who are ambassadors of clean code and smooth running engines.
+Since 2004, I’ve enjoyed a successful career in financial services as a portfolio manager, financial planner and operations director. 
 
+My new path in software engineering gives me a platform to turn concepts into reality through design, problem solving and engineering - three disciplines that are rooted in me from my college years as a mechanical engineer.
 
-## Projects
+## Recent Projects 
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name           | Description                                        | Tech/tools        |
+| -------------- | -------------------------------------------------- | ----------------- |
+| Spring Onion   | A mobile app to track users carbon emissions       | * React Native.   |
+|                | for a car journey and offset by making a donation. | * JavaScript.     |
+|                | to a green charity.                                |                   |       
 
 ## Experience
 
@@ -52,7 +50,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (01/12/2020 - 31/03/2021)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
