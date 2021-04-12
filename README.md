@@ -4,6 +4,7 @@
 
 [My LinkedIn](https://www.linkedin.com/in/jondawson87/)
 
+[Summary](#summary)|
 [Projects ](#projects) |
 [Skills ](#skills) |
 [Experience ](#experience) |
@@ -11,6 +12,8 @@
 [Hobbies ](#hobbies)
 
 </div>
+
+## Summary 
 
 ### Where I'm At.
 I am an enthusiastic developer who graduated from [Makers Academy](https://makers.tech) in March 2021. The syallabus encapsulates the skills modern employers are seeking in the next generation of tech talent - solid developement process, team work, creativity, strong debugging ability and emotional intellegence. 
