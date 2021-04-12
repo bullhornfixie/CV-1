@@ -15,7 +15,7 @@
 
 ## Summary
 
-I am an enthusiastic developer who graduated from [Makers Academy](https://makers.tech) in March 2021. The syallabus encapuslates the skills modern employers are seeking in the next generation of tech talent - solid developement process, team work, creativity, strong debugging ability and emotional intellegence. 
+I am an enthusiastic developer who graduated from [Makers Academy](https://makers.tech) in March 2021. The syallabus encapsulates the skills modern employers are seeking in the next generation of tech talent - solid developement process, team work, creativity, strong debugging ability and emotional intellegence. 
 
 My strongest skills are React, TDD, Ruby, JavaScript and currently enhancing my proficiency in JavaScript and SQL.  
 
@@ -23,9 +23,15 @@ Since 2004, I’ve enjoyed a successful career in financial services as a portfo
 
 Having graduated, I am excited for a new path in software engineering which offers a platform to turn concepts into reality through teamwork, design, problem solving and engineering - three disciplines that are rooted in me from my college years as a mechanical engineer. 
 
-I am now looking for my first developer role and please and feel free to contact regarding any opportunities!
+I am now looking for my first developer role and please and feel free to contact me regarding any opportunities!
 
 ## Projects
+
+ Name                                                              | Description                                                                                                                                                                                                                                          | Tech/tools                           |
+| ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| [Spring Onion](https://github.com/bullhornfixie/First-MobileApp-With-ReactNative) | A mobile app to track users carbon emissions for a car journey and offset by making a donation to a green charity.                                                    | React native, Javascript, Expo |
+| [Bank Account](https://github.com/bullhornfixie/tech-test-wk10-Makers)  | Final tech test for Makers. The purpose of this bank script is to print out a statement for a user, given their activity, like a real bank.Designed to allow customers to use usual bank account features such as credit/debiting an account and viewing the transcations.                                           | JavaScript                     |
+| [Acebook](https://github.com/bullhornfixie/acebook-BBB)   | A Facebook clone built using Ruby On Rails, PostGresSQL to manage user messages and deployed on Heroku. Users can create an account, make, edit, and delete posts, like posts, find and add friends.                    | Ruby                           |
 
 ## Skills
 
