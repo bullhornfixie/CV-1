@@ -4,34 +4,31 @@
 
 [My LinkedIn](https://www.linkedin.com/in/jondawson87/)
 
-[Summary](#summary)|
+[About Me ](#aboutme)|
 [Projects ](#projects) |
 [Skills ](#skills) |
-[Experience ](#experience) |
 [Education ](#education) |
+[Experience ](#experience) |
 [Hobbies ](#hobbies)
 
 </div>
 
-## Summary 
+## About Me 
 
-### Where I'm At.
 I am an enthusiastic developer who graduated from [Makers Academy](https://makers.tech) in March 2021. The syallabus encapsulates the skills modern employers are seeking in the next generation of tech talent - solid developement process, team work, creativity, strong debugging ability and emotional intellegence. 
 
 My strongest skills are React, JavaScript, Ruby and enhancing my SQL. 
 
-### Where I've Been.
-Since 2004, I’ve enjoyed a successful career in financial services as a portfolio manager, financial planner and operations director. I am highly numerate and love working with figures, however, over the last few years, I found myself yearning for a new challenge and dimensions to my daily role.
+Since 2004, I’ve enjoyed a successful career in financial services as a portfolio manager, financial planner and operations director. I am highly numerate and love working with figures, however, over the last few years, I found myself itching for a new challenge and dimensions to my daily role.
 
-### Where I'm Going.
-Having graduated, I am excited for a new path in software engineering becuase you always learning and development  offers a platform to turn concepts into reality through teamwork, design, problem solving and engineering - three disciplines that are rooted in me from my college years as a mechanical engineer. 
+Having graduated, I am excited for a new path in software engineering becuase you always learning and development offers a platform to turn concepts into reality through teamwork, design, problem solving and engineering - three disciplines that are rooted in me from my college years as a mechanical engineer. 
 
 I am now looking for my first developer role and please and feel free to contact me regarding any opportunities!
 
-**Languages**: JavaScript, JSX, Ruby, JQuery, CSS, HTML
-**Frameworks**: React Native, Rails
-**Testing**: RSpec, Jasmine 
-**Databases**: PostgreSQL
+**Languages**: JavaScript, JSX, Ruby, JQuery, CSS, HTML <br>
+**Frameworks**: React Native, Rails <br>
+**Testing**: RSpec, Jasmine <br>
+**Databases**: PostgreSQL <br>
 
 ## Projects
 
@@ -56,9 +53,27 @@ Having previously managed client's investments, a single digit out of place or i
 ### Problem Solving 
 When I left school, I studied mechanical engineering at college and fault finding/solving became an invaluable life skill which has been enriched from my coding journey. My strength is being able to narrow down where the problem lies in the code and then break down each element to understand the flow. As a highly visual person, sometimes a pen and notepad is my best tool in the box!
 
-## Experience
+## Education 
+[Makers Academy](https://makers.tech)(November 2020 to March 2021)
 
-## Education
+A 16-week intensive development bootcamp, focusing on:
+
+* Agile methodologies
+* Object-oriented design
+* Debugging
+* Test driven development and behaviour driven development
+* Pair programming
+* Peer code reviews
+* Git workflow
+
+[Chartered Insurance Institute (CII)](https://www.cii.co.uk/)(2005 - 2010)
+Diploma in Financial Planning 
+
+Chichester College(2001 - 2002)
+City & Guilds Mechanical Engineering 
+
+## Experience 
+
 
 ## Hobbies
 
