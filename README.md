@@ -15,15 +15,13 @@
 
 ## About Me 
 
-I am an enthusiastic developer who graduated from [Makers Academy](https://makers.tech) in March 2021. The syallabus encapsulates the skills modern employers are seeking in the next generation of tech talent - solid developement process, team work, creativity, strong debugging ability and emotional intellegence. 
+I discovered coding, whilst sharing an office with a Creative Director. He said you’re a logical guy, with an eye for design and good with numbers, ever thought about becoming a developer? 90% of my explorations stem from these moments of serendipity. So, I ordered a book called ‘Python in a day’ from Amazon and loved it from the word go!
 
-My strongest skills are React, JavaScript, Ruby and enhancing my SQL. 
+In college, I studied mechanical engineering for 2 years and landed apprenticeships with The British Touring Car Team and Maranello’s/Ferrari. This chosen path out of school rooted from hours spent in the conservatory as a kid, building Meccano cranes and cars. If there were components I could assemble to build a working model, I was all over it! 
 
-Since 2004, I’ve enjoyed a successful career in financial services as a portfolio manager, financial planner and operations director. I am highly numerate and love working with figures, however, over the last few years, I found myself itching for a new challenge and dimensions to my daily role.
+Fast forward to 2020, I am now running a company in financial services which I founded in 2015 with the £2,500 bonus I received from my winter season in Austria as a ski guide and resort representative. My company had just landed the largest US Fund Manager as a client but for me personally, I was itching for a fresh challenge and new dimensions to my daily role. 
 
-Having graduated, I am excited for a new path in software engineering becuase you always learning and development offers a platform to turn concepts into reality through teamwork, design, problem solving and engineering - three disciplines that are rooted in me from my college years as a mechanical engineer. 
-
-I am now looking for my first developer role and please and feel free to contact me regarding any opportunities!
+In pursuit of personal growth and to build something cool, I picked up my ‘Python in a day’ book again, which was a slow burner, and decided to take the leap into a full time course with [Makers Academy](https://makers.tech). I am now a software engineer with canned enthusiasm and knowledge seeking my big break into the world of development!
 
 **Languages**: JavaScript, JSX, Ruby, JQuery, CSS, HTML <br>
 **Frameworks**: React Native, Rails <br>
@@ -41,17 +39,20 @@ I am now looking for my first developer role and please and feel free to contact
 ## Skills
 
 ### Communication 
-Frequent, clear, and concise.
-
-### Attention To Detail
-Having previously managed client's investments, a single digit out of place or incorrect fund code when making trades could be hugely costly for the client. This high level of attention to detail is a skill I have transferred to my code - thorough testing frameworks, clear function naming and clean code. 
+My greatest lesson in the art of being a fantastic communicator was when I trained to be a Skipper. At the helm of a 42ft yacht in the 
+Atlantic with a crew 4 in challenging sailing conditions. Every gybe, tack, captain's log, change of course required communication between myself and the crew. I was taught communication needs to be frequent and delivers the maximum amount of information in the fewest words. It stuck with me! 
 
 [Makers Tech Test Review](https://github.com/bullhornfixie/tech-test2-WK10-Makers)
-*"Nice work on covering the existing code with tests before getting started with the refactoring!"
-"Nice use of switches to make really well readable methods, over if/elses. I think your methods in GildedRose are really concise and cleanly written ~ Makers Coach"*
+*Really great readme, I enjoyed reading it! You shared some really great context here, and the instructions on how to run it were clear ~ Makers Coach*
+
+### Personable 
+I'm able to quickly build rapport with people and engage on a personal level. As a portfolio manager, this was a key skill to have when sitting in front of new clients who could be investing over £1m. People have to like you and they have to trust you in a short space of time. 
+
+## Self Starter 
+In 2018, I wanted to live in Barcelona for the summer but didn't know anyone there. So I hired a Spanish teacher in England, found an apartment, and then got on a plane. My apartment fell through hours after arriving and I stayed in a hotel with a terrace for 2 nights to work out a plan B. Here, I made a group of friends, managed to source a new apartment, found a co-working space to run my business, brought a bike, enrolled in Spanish night school and met a Spanish girlfriend...in 2 weeks! This gave me the confidence that I could be dropped in a foreign situation and make it work.
 
 ### Problem Solving 
-When I left school, I studied mechanical engineering at college and fault finding/solving became an invaluable life skill which has been enriched from my coding journey. My strength is being able to narrow down where the problem lies in the code and then break down each element to understand the flow. As a highly visual person, sometimes a pen and notepad is my best tool in the box!
+When I brought my first property, it transpired the partioning wall ajoining my bedroom and a neighbouring flat had 0 insulation and there was a constant inflow of noise from talking and their TV. On being quoted £5k to rectify with soundproofing, I decided to take matters in my own hands and do the job myself. After a lot of googling, I designed a soundproof wall by creating 6 panels with a sandwich structure. Each side used Gyproc plasterboard with a vinyl sheet filling. You cannot drill holes in the panels so the mesaurements and cutting had to be precise then sealed with soundproof glue. After engineering the wall and completing the job, it was professionally plastered and watertight from nosie leaks - problem solved for £500!
 
 ## Education 
 [Makers Academy](https://makers.tech)(November 2020 to March 2021)
@@ -76,12 +77,12 @@ City & Guilds Mechanical Engineering
 [1to1 Paraplanning](https://1to1paraplanning.co.uk/)(April 2015 - November 2020)<br>
 *Operations Director*
 
-* Specialist recruitment for the asset management sector. 
-* Founded the company in 2015 with starting capital of £2,500.
+* Outsourced paraplanning and recruitment for the asset management sector. 
+* Founded the company in 2015 with starting capital of £2,500 and achieved £60,000 turnover in year 3. 
 * Managed IT infrastructure, finances, business development and team management. 
-* Developed and designed website and integrated a case management portal for clients and staff.
-* Built a candidate list of 90+ paraplanners.
-* Built a reputable client base of global asset managers. 
+* Built and designed the website and integrated a 'white labelled' case management portal for clients and staff.
+* Created a support network for Paraplanners to join. This received 90+ online registrations through the website. 
+* Aquired a reputable client base of global asset managers. 
 
 [Inghams](https://www.inghams.co.uk/ski-holidays)(December 2014 - March 2015) <br>
 *Ski Resort Representative & Ski Guide*
