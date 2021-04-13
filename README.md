@@ -19,7 +19,7 @@ In college, I studied mechanical engineering for 2 years and landed apprenticesh
 
 I discovered coding, whilst sharing an office with a Creative Director. He said you’re a logical guy, with an eye for design and good with numbers, ever thought about becoming a developer? I'm positive, 90% of my life explorations stem from serendipity. So, courtesy of Amazon I ordered a book called ‘Python in a day’ and loved it from the word go but lost interest with the book. 
 
-Fast forward to 2020, I am now running a company in financial services which I founded in 2015 with the £2,500 bonus I received from my winter season in Austria as a ski guide. My company had just landed the largest US Fund Manager as a client but for me personally, I was itching for a fresh challenge and new dimensions to my daily role. 
+Fast forward to 2020, I am running a company in financial services which I founded in 2015 with the £2,500 bonus I received from my winter season in Austria as a ski guide. My company had just landed the largest US Fund Manager as a client but for me personally, I was itching for a fresh challenge and new dimensions to my daily role. 
 
 In pursuit of personal growth, I picked up my ‘Python in a day’ book again, which was a slow burner, and decided to take the leap into a full time course with [Makers Academy](https://makers.tech). I am now a software engineer with canned enthusiasm and knowledge seeking my big break into the world of development!
 
@@ -40,7 +40,7 @@ In pursuit of personal growth, I picked up my ‘Python in a day’ book again, 
 
 ### Communication 
 My greatest lesson in the art of being a fantastic communicator was during my Skipper training. At the helm of a 42ft yacht in the 
-Atlantic with a crew of 3 in challenging sailing conditions. Every gybe, tack, captain's log, change of course required communication between myself and the crew. I was taught communication needs to be frequent, clear and concise. It stuck with me. 
+Atlantic with a crew of 3 in challenging sailing conditions. Every gybe, tack, captain's log, change of course required communication between myself and the crew. I was taught communication needs to be frequent, clear, and concise. It stuck with me. 
 
 [Makers Tech Test Review](https://github.com/bullhornfixie/tech-test2-WK10-Makers)
 *Really great readme, I enjoyed reading it! You shared some really great context here, and the instructions on how to run it were clear ~ Makers Coach*
@@ -99,6 +99,41 @@ City & Guilds Mechanical Engineering
 * Resolve any guests issues, check in with guests at hotels, and host ski tours.
 * An unpredicatable and exciting role which requires teamwork, thinking on your feet, adapatibility, interpersonal skills, and communication.
 
+[Various](September 2008 - October 2014)
+*Private Wealth Manager*
+
+* Regulated by the FCA 
+* Construct and manage investment portfolios for clients
+* Monitor global stock markets and portfolio risk exposure 
+* Build long term financial plans for clients 
+* Assets under management of over £12m
+* Build relationships with new clients 
+
+[GE Life, Gissings](March 2006 - August 2008)
+*Broker Support*
+
+* Based in the heart of the City 
+* Book 10 appointments per week for Brokers 
+* Required to have strong knowledge of employee benefits and pensions
+* FTSE 100, 250 and blue chip companies were target market 
+
+[Maranello][2002 - 2003]
+*Motor Vehicle Technician*
+
+* Official Ferrari dealer in Surrey 
+* Post college apprenticeship
+* Conduct annual services on customers Ferraris 
+* Road testing for issues 
+* Inspect new cars on delivery from the factory in Maranello, Italy 
+
 ## Hobbies
+
+* Windsurfing 
+* Yoga 
+* DJ (Purely vinyl!)
+* Sailing 
+* Road Cycling 
+* Skiing 
+* Collecting cool indie magazines from //Stack 
 
 
