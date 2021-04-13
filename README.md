@@ -46,13 +46,13 @@ Atlantic with a crew of 3 in challenging sailing conditions. Every gybe, tack, c
 *Really great readme, I enjoyed reading it! You shared some really great context here, and the instructions on how to run it were clear ~ Makers Coach*
 
 ### Personable 
-I'm able to quickly build rapport with people and engage on a personal level. As a developer, I feel comfortable speaking with stakeholders and have client facing experience from previous roles where diluting technical jargon into client friendly language became an art form.
+I'm able to quickly build rapport with people and engage on a personal level. As a developer, I feel comfortable speaking with stakeholders and have client facing experience from previous roles where diluting technical jargon into client friendly language became a skill in itself.
 
 ### Self Starter 
 In 2018, I wanted to live in Barcelona for the summer. So I learnt basic Spanish, found an apartment, and then got on a plane. My apartment fell through hours after arriving and I stayed in a hotel with a social terrace for 2 nights to work out a plan B. Here, I made a group of local friends, managed to source a new apartment, found a co-working space to run my business, brought a bike, enrolled in Spanish night school and met a Spanish girlfriend...in 2 weeks! This gave me the confidence that I could be dropped in a foreign situation and make it work. 
 
 ### Cool Under Pressure
-Whilst a ski guide in Kitzbuhel, Austria, I was hosting a tour with a group of guests and a heavy snow storm descended upon the mountain which caused all ski lifts to close. After 2 hours of seeking shelter in a restaurant, I chaperoned my 8 guests down the mountain and a family of six who became stranded. This was a test of critical thinking in an unexpected situtation.
+Whilst a ski guide in Kitzbuhel, Austria, I was hosting a tour with a group of guests and a heavy snow storm descended upon the mountain which caused all ski lifts to close. After 2 hours of seeking shelter in a restaurant, I chaperoned my 8 guests down the mountain and a family of 4 who became stranded. This was a test of critical thinking in an unexpected situtation.
 
 ### Problem Solving 
 In 2015, when I launched an outsourced paraplanning company in financial services, we handled large volumes of client data via email or Dropbox. I could see this was a) not secure and b) difficult to manage. All my other competitors were using this method and I needed an alternative solution which was low cost but offered the functionality needed. Eventually, I found a startup called Clinked who offered a client portal and they agreed to white label this for me on a start up price. I integrated this portal into the website and we quickly gained a competitive edge with larger clients who had concerns over secure data sharing - problem solved. 
