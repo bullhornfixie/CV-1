@@ -15,7 +15,7 @@
 
 ## About Me 
 
-I discovered coding, whilst sharing an office with a Creative Director. He said you’re a logical guy, with an eye for design and good with numbers, ever thought about becoming a developer? 90% of my explorations stem from these moments of serendipity. So, I ordered a book called ‘Python in a day’ from Amazon and loved it from the word go!
+I discovered coding, whilst sharing an office with a Creative Director. He said you’re a logical guy, with an eye for design and good with numbers, ever thought about becoming a developer? I'm positive, 90% of my life explorations stem from serendipity. So, courtesy of Amazon I ordered a book called ‘Python in a day’ and loved it from the word go!
 
 In college, I studied mechanical engineering for 2 years and landed apprenticeships with The British Touring Car Team and Maranello’s/Ferrari. This chosen path out of school rooted from hours spent in the conservatory as a kid, building Meccano cranes and cars. If there were components I could assemble to build a working model, I was all over it! 
 
@@ -40,7 +40,7 @@ In pursuit of personal growth and to build something cool, I picked up my ‘Pyt
 
 ### Communication 
 My greatest lesson in the art of being a fantastic communicator was when I trained to be a Skipper. At the helm of a 42ft yacht in the 
-Atlantic with a crew 4 in challenging sailing conditions. Every gybe, tack, captain's log, change of course required communication between myself and the crew. I was taught communication needs to be frequent and delivers the maximum amount of information in the fewest words. It stuck with me! 
+Atlantic with a crew 4 in challenging sailing conditions. Every gybe, tack, captain's log, change of course required communication between myself and the crew. I was taught communication needs to be frequent, clear and concise. It stuck with me. 
 
 [Makers Tech Test Review](https://github.com/bullhornfixie/tech-test2-WK10-Makers)
 *Really great readme, I enjoyed reading it! You shared some really great context here, and the instructions on how to run it were clear ~ Makers Coach*
@@ -49,7 +49,7 @@ Atlantic with a crew 4 in challenging sailing conditions. Every gybe, tack, capt
 I'm able to quickly build rapport with people and engage on a personal level. When I started out as a portfolio manager, I had no clients and the company offered me an orphan client base. Over 12 months I revived over 100 clients from dormant to active through my relationship building ability. 
 
 ### Self Starter 
-In 2018, I wanted to live in Barcelona for the summer. So I hired a Spanish teacher in England, found an apartment, and then got on a plane. My apartment fell through hours after arriving and I stayed in a hotel with a terrace for 2 nights to work out a plan B. Here, I made a group of local friends, managed to source a new apartment, found a co-working space to run my business, brought a bike, enrolled in Spanish night school and met a Spanish girlfriend...in 2 weeks! This gave me the confidence that I could be dropped in a foreign situation and make it work. 
+In 2018, I wanted to live in Barcelona for the summer. So I hired a Spanish teacher in England, found an apartment, and then got on a plane. My apartment fell through hours after arriving and I stayed in a hotel with a social terrace for 2 nights to work out a plan B. Here, I made a group of local friends, managed to source a new apartment, found a co-working space to run my business, brought a bike, enrolled in Spanish night school and met a Spanish girlfriend...in 2 weeks! This gave me the confidence that I could be dropped in a foreign situation and make it work. 
 
 ### Problem Solving 
 When I brought my first property, it transpired the partioning wall ajoining my bedroom and a neighbouring flat had 0 insulation and there was a constant inflow of noise from talking and their TV. On being quoted £5k to rectify with soundproofing, I decided to take matters in my own hands and do the job myself. After a lot of googling, I designed a soundproof wall by creating 6 panels with a sandwich structure. Each side used Gyproc plasterboard with a vinyl sheet filling. You cannot drill holes in the panels so the mesaurements and cutting had to be precise then sealed with soundproof glue. After engineering the wall and completing the job, it was professionally plastered and watertight from nosie leaks - problem solved for £500!
