@@ -70,8 +70,13 @@ A 16-week intensive development bootcamp, focusing on:
 * Peer code reviews
 * Git workflow
 
+[Royal Yachting Association (RYA)](https://www.rya.org.uk/courses-training/courses/sail-cruising/Pages/day-skipper.aspx)
+Day Skipper 
+Competant Crew 
+
 [Chartered Insurance Institute (CII)](https://www.cii.co.uk/)(2005 - 2010) <br>
-Diploma in Financial Planning 
+Diploma in Financial Planning (Dip PFS)
+Pension Transfer Specialist (AF3)
 
 [Chichester College](https://www.chichester.ac.uk/)(2001 - 2002) <br>
 City & Guilds Mechanical Engineering 
