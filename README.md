@@ -66,14 +66,30 @@ A 16-week intensive development bootcamp, focusing on:
 * Peer code reviews
 * Git workflow
 
-[Chartered Insurance Institute (CII)](https://www.cii.co.uk/)(2005 - 2010)
+[Chartered Insurance Institute (CII)](https://www.cii.co.uk/)(2005 - 2010) <br>
 Diploma in Financial Planning 
 
-Chichester College(2001 - 2002)
+[Chichester College](https://www.chichester.ac.uk/)(2001 - 2002) <br>
 City & Guilds Mechanical Engineering 
 
 ## Experience 
+[1to1 Paraplanning](https://1to1paraplanning.co.uk/)(April 2015 - November 2020)<br>
+*Operations Director*
 
+* Specialist recruitment for the asset management sector. 
+* Founded the company in 2015 with starting capital of £2,500.
+* Managed IT infrastructure, finances, business development and team management. 
+* Developed and designed website and integrated a case management portal for clients and staff.
+* Built a candidate list of 90+ paraplanners.
+* Built a reputable client base of global asset managers. 
+
+[Inghams](https://www.inghams.co.uk/ski-holidays)(December 2014 - March 2015) <br>
+*Ski Resort Representative & Ski Guide*
+
+* Based in the luxury resort of Kitzbuhel in Austria. 
+* I was responsible for guest transfers to and from Salzburg and Innsbruck airport and communicating with coach drivers. 
+* Resolve any guests issues, check in with guests, and host ski tours.
+* An unpredicatable and exciting role which requires teamwork, adapatibility, inter-personal skills, and communication.
 
 ## Hobbies
 
