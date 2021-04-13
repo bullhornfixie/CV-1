@@ -117,7 +117,7 @@ GE Life, Gissings(March 2006 - August 2008) <br>
 * Required to have strong knowledge of employee benefits and pensions
 * FTSE 100, 250 and blue chip companies were target market 
 
-[Maranello](https://london-maranello.ferraridealers.com/en_gb/)[2002 - 2003] <br>
+[Maranello](https://london-maranello.ferraridealers.com/en_gb/)(2002 - 2003) <br>
 *Motor Vehicle Technician*
 
 * Official Ferrari dealer in Surrey 
@@ -128,7 +128,7 @@ GE Life, Gissings(March 2006 - August 2008) <br>
 
 ## Hobbies
 
-* Love the ocean - sailing, wimndsurfing and sea swimming
+* Love the ocean - sailing, windsurfing and sea swimming
 * Yoga and generally staying zen 
 * Collecting cool indie mags from //stack 
 * Finding 80's/90's vinyl in European record shops 
