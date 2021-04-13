@@ -99,7 +99,7 @@ City & Guilds Mechanical Engineering
 * Resolve any guests issues, check in with guests at hotels, and host ski tours.
 * An unpredicatable and exciting role which requires teamwork, thinking on your feet, adapatibility, interpersonal skills, and communication.
 
-[Various](September 2008 - October 2014)
+Various(September 2008 - October 2014) <br>
 *Private Wealth Manager*
 
 * Regulated by the FCA 
@@ -109,7 +109,7 @@ City & Guilds Mechanical Engineering
 * Assets under management of over £12m
 * Build relationships with new clients 
 
-[GE Life, Gissings](March 2006 - August 2008)
+GE Life, Gissings(March 2006 - August 2008) <br>
 *Broker Support*
 
 * Based in the heart of the City 
@@ -117,7 +117,7 @@ City & Guilds Mechanical Engineering
 * Required to have strong knowledge of employee benefits and pensions
 * FTSE 100, 250 and blue chip companies were target market 
 
-[Maranello][2002 - 2003]
+[Maranello](https://london-maranello.ferraridealers.com/en_gb/)[2002 - 2003] <br>
 *Motor Vehicle Technician*
 
 * Official Ferrari dealer in Surrey 
