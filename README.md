@@ -128,12 +128,13 @@ GE Life, Gissings(March 2006 - August 2008) <br>
 
 ## Hobbies
 
-* Windsurfing 
-* Yoga 
-* DJ (Purely vinyl!)
-* Sailing 
-* Road Cycling 
-* Skiing 
-* Collecting cool indie magazines from //Stack 
+* Love the ocean - sailing, wimndsurfing and sea swimming
+* Yoga and generally staying zen 
+* Collecting cool indie mags from //stack 
+* Finding 80's/90's vinyl in European record shops 
+* Sailing - sailed around the Isle Of Wight last October 
+* Putting in miles on my Bianchi Racing Bike 
+* Architecture interests me 
+* Finding a documentary I haven't watched yet 
 
 
