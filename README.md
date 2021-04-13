@@ -87,9 +87,9 @@ City & Guilds Mechanical Engineering
 *Ski Resort Representative & Ski Guide*
 
 * Based in the luxury resort of Kitzbuhel in Austria. 
-* I was responsible for guest transfers to and from Salzburg and Innsbruck airport and communicating with coach drivers. 
-* Resolve any guests issues, check in with guests, and host ski tours.
-* An unpredicatable and exciting role which requires teamwork, adapatibility, inter-personal skills, and communication.
+* I was responsible for guest transfers to and from the airport, monitoring flight times, and communicating with coach drivers. 
+* Resolve any guests issues, check in with guests at hotels, and host ski tours.
+* An unpredicatable and exciting role which requires teamwork, thinking on your feet, adapatibility, interpersonal skills, and communication.
 
 ## Hobbies
 
