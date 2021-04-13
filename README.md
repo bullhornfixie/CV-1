@@ -1,4 +1,4 @@
-<h1 align="center">Jonathan Dawson CV</h1>
+<h1 align="center">Jon Dawson CV</h1>
 
 <div align="center">
 
@@ -46,15 +46,15 @@ Atlantic with a crew 4 in challenging sailing conditions. Every gybe, tack, capt
 *Really great readme, I enjoyed reading it! You shared some really great context here, and the instructions on how to run it were clear ~ Makers Coach*
 
 ### Personable 
-I'm able to quickly build rapport with people and engage on a personal level. As a portfolio manager, this was a key skill to have when sitting in front of new clients who could be investing over £1m. People have to like you and they have to trust you in a short space of time. 
+I'm able to quickly build rapport with people and engage on a personal level. When I started out as a portfolio manager, I had no clients and the company offered me an orphan client base. Over 12 months I revived over 100 clients from dormant to active through my relationship building ability. 
 
-## Self Starter 
-In 2018, I wanted to live in Barcelona for the summer but didn't know anyone there. So I hired a Spanish teacher in England, found an apartment, and then got on a plane. My apartment fell through hours after arriving and I stayed in a hotel with a terrace for 2 nights to work out a plan B. Here, I made a group of friends, managed to source a new apartment, found a co-working space to run my business, brought a bike, enrolled in Spanish night school and met a Spanish girlfriend...in 2 weeks! This gave me the confidence that I could be dropped in a foreign situation and make it work.
+### Self Starter 
+In 2018, I wanted to live in Barcelona for the summer. So I hired a Spanish teacher in England, found an apartment, and then got on a plane. My apartment fell through hours after arriving and I stayed in a hotel with a terrace for 2 nights to work out a plan B. Here, I made a group of local friends, managed to source a new apartment, found a co-working space to run my business, brought a bike, enrolled in Spanish night school and met a Spanish girlfriend...in 2 weeks! This gave me the confidence that I could be dropped in a foreign situation and make it work. 
 
 ### Problem Solving 
 When I brought my first property, it transpired the partioning wall ajoining my bedroom and a neighbouring flat had 0 insulation and there was a constant inflow of noise from talking and their TV. On being quoted £5k to rectify with soundproofing, I decided to take matters in my own hands and do the job myself. After a lot of googling, I designed a soundproof wall by creating 6 panels with a sandwich structure. Each side used Gyproc plasterboard with a vinyl sheet filling. You cannot drill holes in the panels so the mesaurements and cutting had to be precise then sealed with soundproof glue. After engineering the wall and completing the job, it was professionally plastered and watertight from nosie leaks - problem solved for £500!
 
-## Education 
+### Education 
 [Makers Academy](https://makers.tech)(November 2020 to March 2021)
 
 A 16-week intensive development bootcamp, focusing on:
@@ -80,8 +80,8 @@ City & Guilds Mechanical Engineering
 * Outsourced paraplanning and recruitment for the asset management sector. 
 * Founded the company in 2015 with starting capital of £2,500 and achieved £60,000 turnover in year 3. 
 * Managed IT infrastructure, finances, business development and team management. 
-* Built and designed the website and integrated a 'white labelled' case management portal for clients and staff.
-* Created a support network for Paraplanners to join. This received 90+ online registrations through the website. 
+* Developed the website and integrated a case management portal for clients and staff.
+* Created a paraplanning network which received 90+ registrations through the website. 
 * Aquired a reputable client base of global asset managers. 
 
 [Inghams](https://www.inghams.co.uk/ski-holidays)(December 2014 - March 2015) <br>
