@@ -15,13 +15,13 @@
 
 ## About Me 
 
-I discovered coding, whilst sharing an office with a Creative Director. He said you’re a logical guy, with an eye for design and good with numbers, ever thought about becoming a developer? I'm positive, 90% of my life explorations stem from serendipity. So, courtesy of Amazon I ordered a book called ‘Python in a day’ and loved it from the word go!
+In college, I studied mechanical engineering for 2 years and landed apprenticeships with The British Touring Car Team and Maranello’s/Ferrari. This chosen path out of school rooted from hours spent in the conservatory as a kid, building Meccano cranes and cars. If there were components I could assemble to build a working model, I was all over it.
 
-In college, I studied mechanical engineering for 2 years and landed apprenticeships with The British Touring Car Team and Maranello’s/Ferrari. This chosen path out of school rooted from hours spent in the conservatory as a kid, building Meccano cranes and cars. If there were components I could assemble to build a working model, I was all over it! 
+I discovered coding, whilst sharing an office with a Creative Director. He said you’re a logical guy, with an eye for design and good with numbers, ever thought about becoming a developer? I'm positive, 90% of my life explorations stem from serendipity. So, courtesy of Amazon I ordered a book called ‘Python in a day’ and loved it from the word go but lost interest with the book. 
 
 Fast forward to 2020, I am now running a company in financial services which I founded in 2015 with the £2,500 bonus I received from my winter season in Austria as a ski guide and resort representative. My company had just landed the largest US Fund Manager as a client but for me personally, I was itching for a fresh challenge and new dimensions to my daily role. 
 
-In pursuit of personal growth and to build something cool, I picked up my ‘Python in a day’ book again, which was a slow burner, and decided to take the leap into a full time course with [Makers Academy](https://makers.tech). I am now a software engineer with canned enthusiasm and knowledge seeking my big break into the world of development!
+In pursuit of personal growth, I picked up my ‘Python in a day’ book again, which was a slow burner, and decided to take the leap into a full time course with [Makers Academy](https://makers.tech). I am now a software engineer with canned enthusiasm and knowledge seeking my big break into the world of development!
 
 **Languages**: JavaScript, JSX, Ruby, JQuery, CSS, HTML <br>
 **Frameworks**: React Native, Rails <br>
@@ -39,7 +39,7 @@ In pursuit of personal growth and to build something cool, I picked up my ‘Pyt
 ## Skills
 
 ### Communication 
-My greatest lesson in the art of being a fantastic communicator was when I trained to be a Skipper. At the helm of a 42ft yacht in the 
+My greatest lesson in the art of being a fantastic communicator was during my Skipper training. At the helm of a 42ft yacht in the 
 Atlantic with a crew 4 in challenging sailing conditions. Every gybe, tack, captain's log, change of course required communication between myself and the crew. I was taught communication needs to be frequent, clear and concise. It stuck with me. 
 
 [Makers Tech Test Review](https://github.com/bullhornfixie/tech-test2-WK10-Makers)
