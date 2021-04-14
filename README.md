@@ -59,6 +59,9 @@ Whilst a ski guide in Kitzbuhel, Austria, I was hosting a tour with a group of g
 ### Problem Solving 
 In 2015, when I launched an outsourced paraplanning company in financial services, we handled large volumes of client data via email or Dropbox. I could see this was a) not secure and b) difficult to manage. All my other competitors were using this method and I needed an alternative solution which was low cost but offered the functionality needed. Eventually, I found a startup called Clinked who offered a client portal and they agreed to white label this for me on a start up price. I integrated this portal into the website and we quickly gained a competitive edge with larger clients who had concerns over secure data sharing - problem solved. 
 
+### Front End Development 
+Previously starting a business on budget meant the luxury of a professional developer/designer was absent. I taught myself CSS/HTML and built a commercially viable website on WordPress [1to1Paraplanning](https://1to1paraplanning.co.uk/). Makers Academy gave me the back end tools I needed for a full stack profile. 
+
 ## Education 
 [Makers Academy](https://makers.tech)(November 2020 to March 2021)
 
