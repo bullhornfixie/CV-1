@@ -24,7 +24,7 @@ Fast forward to 2020, I am running a company in financial services which I found
 In pursuit of personal growth, I picked up my ‘Python in a day’ book again, which was a slow burner, and decided to take the leap into a full time course with [Makers Academy](https://makers.tech). I am now a software engineer with canned enthusiasm and knowledge, seeking my big break into the world of development!
 
 **Languages**: JavaScript, JSX, Ruby, JQuery, CSS, HTML <br>
-**Frameworks**: React Native, Rails <br>
+**Frameworks**: React Native, Rails, AWS <br>
 **Testing**: RSpec, Jasmine <br>
 **Databases**: PostgreSQL <br>
 
