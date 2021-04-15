@@ -15,11 +15,11 @@
 
 ## About Me 
 
-In college, I studied mechanical engineering for 2 years and landed apprenticeships with The British Touring Car Team and Maranello’s/Ferrari. Having spent hours in the conservatory as a kid, building Meccano cranes and cars, if there were components I could assemble to have a working model, I was all over it.
+Having spent hours in the conservatory as a kid, building Meccano cranes and cars, if there were components I could assemble to have a working model, I was all over it. Post school I studied mechanical engineering at college for 2 years and landed apprenticeships with The British Touring Car Team and Maranello’s/Ferrari thereafter.  
+
+Fast forward to 2020, I am running a company in financial services which I started in 2015 with a modest £2,500 in savings. My company had just landed the largest Fund Manager in the US as a client but found myself itching for a fresh challenge and new dimensions to my daily role...
 
 I discovered coding, whilst sharing an office with a Creative Director. He said you’re a logical guy, with an eye for design and good with numbers, ever thought about becoming a developer? I'm positive, 90% of my life explorations stem from serendipity. So, courtesy of Amazon I ordered a book called ‘Python in a day’ and loved it from the word go but lost interest with the book. 
-
-Fast forward to 2020, I am running a company in financial services which I founded in 2015 with the £2,500 bonus I received from my winter season in Austria as a ski guide. My company had just landed the largest Fund Manager in the US as a client but found myself itching for a fresh challenge and new dimensions to my daily role. 
 
 In pursuit of personal growth and following a passion for design, engineering and problem solving, I took a leap from 10 years in financial services into the world of development. I was accepted for a 16 week intense course with Makers Academy in London and I am now a software engineer with canned enthusiasm and knowledge, seeking my first step onto my new career path!
 
