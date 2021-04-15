@@ -62,7 +62,7 @@ In 2018, I wanted to live in Barcelona for the summer. I studied Spanish for thr
 Whilst a ski guide in Kitzbuhel, Austria, I was hosting a tour with a group of guests and a heavy snow storm descended upon the mountain which caused all ski lifts to close. After 2 hours of seeking shelter in a restaurant, I chaperoned my 8 guests down the mountain and a family of 4 who became stranded. This was a test of critical thinking in an unexpected situation.
 
 ### Front End Development 
-Previously starting a business on budget meant the luxury of a professional developer/designer was absent. I taught myself CSS/HTML and built a commercially viable website on WordPress [1to1Paraplanning](https://1to1paraplanning.co.uk/). Makers Academy gave me the back end tools I needed for a full stack profile. 
+Previously starting a business on a tight budget meant the luxury of a professional developer/designer was absent. I taught myself CSS/HTML and built a commercially viable website on WordPress [1to1Paraplanning](https://1to1paraplanning.co.uk/). Makers Academy gave me the back end tools I needed for a full stack profile. 
 
 ## Education 
 [Makers Academy](https://makers.tech)(November 2020 to March 2021)
