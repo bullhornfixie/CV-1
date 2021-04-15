@@ -34,8 +34,8 @@ In pursuit of personal growth and following a passion for design, engineering an
 **Description**: An app that serves the surfing community by giving a visual representation of swell data in various locations. <br>
 **API**: [Magicseaweed](https://magicseaweed.com/developer/sign-up) <br>
 **Tech Stack**: MERN <br>
-**Learning resource**: [Udemy](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/learn/lecture/16984934#overview) <br>
-**Data visualisation**: [Example](https://codepen.io/negan1911/pen/GLbBGm) <br>
+**Learning Resource**: [Udemy](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/learn/lecture/16984934#overview) <br>
+**Data Visualisation**: [Example](https://codepen.io/negan1911/pen/GLbBGm) <br>
 
 ## Recent Projects
 
