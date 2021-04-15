@@ -15,13 +15,13 @@
 
 ## About Me 
 
-Having spent hours in the conservatory as a kid, building Meccano cranes and cars, if there were components I could assemble to achieve a working model, I was all over it. Post school I studied mechanical engineering at college for 2 years and landed apprenticeships with The British Touring Car Team and Maranellos/Ferrari thereafter.  
+Having spent hours in the conservatory as a kid, building Meccano cranes and cars, if there were components I could assemble to achieve a working model, I was all over it. Post-school I studied mechanical engineering at college for 2 years and landed apprenticeships with The British Touring Car Team and Maranellos/Ferrari thereafter.  
 
 Fast forward to April 2015, I launched an outsourcing company in financial services with a modest £2,500. In 2020, my company secured a contract with one of the largest global fund managers. However, on reaching this peak I found myself itching for a fresh challenge and new dimensions to my daily role. 
 
-I discovered coding whilst sharing an office with a Creative Director. He said you’re a logical guy, with an eye for design and good with numbers, ever thought about becoming a developer? As an advocate of serendipity, I ordered a book from Amazon the following morning called ‘Python in a day’ (good name, wishful thinking) and loved it from the word go but lost interest with the book. 
+I discovered coding whilst sharing an office with a Creative Director. He said you’re a logical guy, with an eye for design and good with numbers, ever thought about becoming a developer? As an advocate of serendipity, I ordered a book called ‘Python in a day’ (good name, wishful thinking) and loved it from the word go but lost interest with the book. 
 
-In pursuit of personal growth and following a passion for design, engineering and problem solving, I took a leap from 10 years in financial services into the world of development. I was accepted for a 16 week intense course with [Makers Academy](https://makers.tech/about-us/) in London and I am now a software engineer with canned enthusiasm and knowledge, seeking my first step onto my new career path!
+In pursuit of personal growth and following a passion for design, engineering and problem solving, I transitioned from 10 years in financial services into the world of development. I was accepted for a 16-week intense course with [Makers Academy](https://makers.tech/about-us/) in London and I am now a software engineer with canned enthusiasm and knowledge, seeking my first step onto my new career path!
 
 **Languages**: JavaScript, JSX, Ruby, JQuery, CSS, HTML <br>
 **Frameworks**: React Native, Rails, AWS <br>
@@ -31,7 +31,7 @@ In pursuit of personal growth and following a passion for design, engineering an
 ## Current Project 
 
 **Project**: WaxOn <br>
-**Description**: An app which serves the surfing community by giving a visual representation of swell data in various locations. <br>
+**Description**: An app that serves the surfing community by giving a visual representation of swell data in various locations. <br>
 **API**: [Magicseaweed](https://magicseaweed.com/developer/sign-up) <br>
 **Tech Stack**: MERN <br>
 **Learning resource**: [Udemy](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/learn/lecture/16984934#overview) <br>
@@ -41,17 +41,17 @@ In pursuit of personal growth and following a passion for design, engineering an
 
  Name                                                              | Description                                                                                                                                                                                                                                          | Tech/tools                           |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-| [Spring Onion](https://github.com/bullhornfixie/First-MobileApp-With-ReactNative) | A mobile app to track carbon emissions for a user car journey with an offset feature.                                                 | React Native, Javascript      |
+| [Spring Onion](https://github.com/bullhornfixie/First-MobileApp-With-ReactNative) | A mobile app to track carbon emissions for a user's car journey with an offset feature.                                                 | React Native, Javascript      |
 | [Bank Account](https://github.com/bullhornfixie/tech-test-wk10-Makers)  | Final tech test for Makers. The purpose of this bank script is to print out a statement for a user, given their activity, like a real bank. Designed to allow customers to use usual bank account features such as credit/debiting an account and viewing the transactions.                                          | JavaScript,  Jasmine          |
 | [Acebook](https://github.com/bullhornfixie/acebook-BBB)   | A Facebook clone built using Ruby On Rails, PostGresSQL to manage user messages and deployed on Heroku. Users can create an account, make, edit, and delete posts, like posts, find and add friends.                    | Ruby On Rails, Ruby           |
 
 ## Skills
 
 ### Problem Solving 
-When I launched an outsourced paraplanning company in financial services, we handled large volumes of client data via email or Dropbox. I could see this was a) not secure and b) difficult to manage. All my other competitors were using this method and I needed an alternative solution which was low cost but offered the functionality needed. Eventually, I found a startup called [Clinked](https://clinked.com/) who offered a client portal and they agreed to white label this for me on a start up price. I integrated this portal into the [website](https://1to1paraplanning.co.uk/) and we quickly gained a competitive edge with larger clients who had concerns over secure data sharing - problem solved. 
+When I launched an outsourced paraplanning company in financial services, we handled large volumes of client data via email or Dropbox. I could see this was a) not secure and b) difficult to manage. All my other competitors were using this method and I needed an alternative solution that was low cost but offered the functionality needed. Eventually, I found a startup called [Clinked](https://clinked.com/) who offered a client portal and they agreed to white label this for me on a startup price. I integrated this portal into the [website](https://1to1paraplanning.co.uk/) and we quickly gained a competitive edge with larger clients who had concerns over secure data sharing - problem solved. 
 
 ### Communication 
-My greatest lesson in the art of being a fantastic communicator was during my Skipper training, at the helm of a 42ft yacht in challenging Atlantic sailing conditions with a crew of 3. Every gybe, tack, captains log, change of course required communication between myself and the crew. I was taught communication needs to be frequent, clear, and concise. It stuck with me. 
+My greatest lesson in the art of being a fantastic communicator was during my Skipper training, at the helm of a 42ft yacht in challenging Atlantic sailing conditions with a crew of 3. Every gybe, tack, captain's log, change of course required communication between myself and the crew. I was taught communication needs to be frequent, clear, and concise. It stuck with me. 
 
 [Makers Tech Test Review](https://github.com/bullhornfixie/tech-test2-WK10-Makers)<br>
 *"Really great readme, I enjoyed reading it! You shared some really great context here, and the instructions on how to run it were clear"*
@@ -63,13 +63,13 @@ I'm able to quickly build rapport with people and engage on a personal level. As
 I once pitched solo to the Financial Director of Hugo Boss at their HQ in Camden to manage their group pension scheme. This was on the edge of my comfort zone and I made it to the final 3 considerations. 
 
 ### Self Starter 
-In 2018, I made a solo move to Barcelona...daunting. In two weeks, I sourced an apartment, met a group of friends, found a co-working space to run my business, enrolled in a language night school and met a girlfriend. With no network in a foreign environment I quickly established myself. 
+In 2018, I made a solo move to Barcelona...daunting. In two weeks, I sourced an apartment, met a group of friends, found a co-working space to run my business, enrolled in a language night school, and met a girlfriend. With no network in a foreign environment, I quickly established myself. 
 
 ### Cool Under Pressure
-Whilst a ski guide in Kitzbuhel, Austria, I was hosting a tour with a group of guests and a heavy snow storm descended upon the mountain which caused all ski lifts to close. After 2 hours of seeking shelter in a restaurant, I chaperoned my 8 guests down the mountain and a family of 4 who became stranded. This was a test of critical thinking in an unexpected situation.
+Whilst a ski guide in Kitzbuhel, Austria, I was hosting a tour with a group of guests and a heavy snowstorm descended upon the mountain which caused all ski lifts to close. After 2 hours of seeking shelter in a restaurant, I chaperoned my 8 guests down the mountain and a family of 4 who became stranded. This was a test of critical thinking in an unexpected situation.
 
 ### Front End Development 
-Previously starting a business on a tight budget meant the luxury of a professional developer/designer was absent. I taught myself CSS/HTML and built a commercially viable website on WordPress [1to1Paraplanning](https://1to1paraplanning.co.uk/). Makers Academy gave me the back end tools I needed for a full stack profile. 
+Previously starting a business on a tight budget meant the luxury of a professional developer/designer was absent. I taught myself CSS/HTML and built a commercially viable website on WordPress [1to1Paraplanning](https://1to1paraplanning.co.uk/). Makers Academy gave me the back-end tools I needed for a full-stack profile. 
 
 ## Education 
 [Makers Academy](https://makers.tech)(November 2020 to March 2021)
@@ -110,7 +110,7 @@ City & Guilds Mechanical Engineering
 
 * Based in the luxury resort of Kitzbuhel in Austria. 
 * I was responsible for guest transfers to and from the airport, monitoring flight times, and communicating with coach drivers. 
-* Resolve any guest issues, check-in with guests at hotels, and host ski tours.
+* Resolve any guest issues, checkin with guests at hotels, and host ski tours.
 * An unpredictable and exciting role requiring teamwork, confidence, adaptability, interpersonal skills, and communication.
 
 Various(September 2008 - October 2014) <br>
@@ -135,7 +135,7 @@ GE Life, Gissings(March 2006 - August 2008) <br>
 *Motor Vehicle Technician*
 
 * Official Ferrari dealer in Surrey 
-* Post college apprenticeship
+* Post-college apprenticeship
 * Conduct annual services on customers Ferraris 
 * Road testing for issues 
 * Inspect new cars on delivery from the factory in Maranello, Italy 
