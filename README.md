@@ -40,6 +40,9 @@ I am currently progressing my skills in React, Node.js and MongoDB.
 
 ## Skills
 
+### Problem Solving 
+When I launched an outsourced paraplanning company in financial services, we handled large volumes of client data via email or Dropbox. I could see this was a) not secure and b) difficult to manage. All my other competitors were using this method and I needed an alternative solution which was low cost but offered the functionality needed. Eventually, I found a startup called Clinked who offered a client portal and they agreed to white label this for me on a start up price. I integrated this portal into the website and we quickly gained a competitive edge with larger clients who had concerns over secure data sharing - problem solved. 
+
 ### Communication 
 My greatest lesson in the art of being a fantastic communicator was during my Skipper training, at the helm of a 42ft yacht in challenging Atlantic sailing conditions with a crew of 3. Every gybe, tack, captains log, change of course required communication between myself and the crew. I was taught communication needs to be frequent, clear, and concise. It stuck with me. 
 
@@ -57,9 +60,6 @@ In 2018, I wanted to live in Barcelona for the summer. I studied Spanish for thr
 
 ### Cool Under Pressure
 Whilst a ski guide in Kitzbuhel, Austria, I was hosting a tour with a group of guests and a heavy snow storm descended upon the mountain which caused all ski lifts to close. After 2 hours of seeking shelter in a restaurant, I chaperoned my 8 guests down the mountain and a family of 4 who became stranded. This was a test of critical thinking in an unexpected situation.
-
-### Problem Solving 
-In 2015, when I launched an outsourced paraplanning company in financial services, we handled large volumes of client data via email or Dropbox. I could see this was a) not secure and b) difficult to manage. All my other competitors were using this method and I needed an alternative solution which was low cost but offered the functionality needed. Eventually, I found a startup called Clinked who offered a client portal and they agreed to white label this for me on a start up price. I integrated this portal into the website and we quickly gained a competitive edge with larger clients who had concerns over secure data sharing - problem solved. 
 
 ### Front End Development 
 Previously starting a business on budget meant the luxury of a professional developer/designer was absent. I taught myself CSS/HTML and built a commercially viable website on WordPress [1to1Paraplanning](https://1to1paraplanning.co.uk/). Makers Academy gave me the back end tools I needed for a full stack profile. 
