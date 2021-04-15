@@ -21,7 +21,7 @@ I discovered coding, whilst sharing an office with a Creative Director. He said 
 
 Fast forward to 2020, I am running a company in financial services which I founded in 2015 with the £2,500 bonus I received from my winter season in Austria as a ski guide. My company had just landed the largest Fund Manager in the US as a client but found myself itching for a fresh challenge and new dimensions to my daily role. 
 
-In pursuit of personal growth, I picked up my ‘Python in a day’ book again, which was a slow burner, and decided to take the leap into a full time course with [Makers Academy](https://makers.tech). I am now a software engineer with canned enthusiasm and knowledge, seeking my big break into the world of development!
+In pursuit of personal growth and following a passion for design, engineering and problem solving, I took a leap from 10 years in financial services into the world of development. I was accepted for a 16 week intense course with Makers Academy in London and I am now a software engineer with canned enthusiasm and knowledge, seeking my first step onto my new career path!
 
 **Languages**: JavaScript, JSX, Ruby, JQuery, CSS, HTML <br>
 **Frameworks**: React Native, Rails, AWS <br>
