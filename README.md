@@ -23,6 +23,8 @@ I discovered coding, whilst sharing an office with a Creative Director. He said 
 
 In pursuit of personal growth and following a passion for design, engineering and problem solving, I took a leap from 10 years in financial services into the world of development. I was accepted for a 16 week intense course with [Makers Academy](https://makers.tech/about-us/) in London and I am now a software engineer with canned enthusiasm and knowledge, seeking my first step onto my new career path!
 
+I am currently progressing my skilset with React, Node.js and MongoDB whilst job searching.
+
 **Languages**: JavaScript, JSX, Ruby, JQuery, CSS, HTML <br>
 **Frameworks**: React Native, Rails, AWS <br>
 **Testing**: RSpec, Jasmine <br>
