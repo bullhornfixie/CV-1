@@ -47,7 +47,7 @@ When I launched an outsourced paraplanning company in financial services, we han
 My greatest lesson in the art of being a fantastic communicator was during my Skipper training, at the helm of a 42ft yacht in challenging Atlantic sailing conditions with a crew of 3. Every gybe, tack, captains log, change of course required communication between myself and the crew. I was taught communication needs to be frequent, clear, and concise. It stuck with me. 
 
 [Makers Tech Test Review](https://github.com/bullhornfixie/tech-test2-WK10-Makers)
-*Really great readme, I enjoyed reading it! You shared some really great context here, and the instructions on how to run it were clear ~ Makers Coach*
+*"Really great readme, I enjoyed reading it! You shared some really great context here, and the instructions on how to run it were clear" ~ Makers Coach*
 
 ### Personable 
 I'm able to quickly build rapport with people and engage on a personal level. As a developer, I feel comfortable speaking with stakeholders and have client-facing experience from previous roles where diluting technical jargon into client-friendly language became a skill in itself. 
