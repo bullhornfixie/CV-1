@@ -110,7 +110,7 @@ City & Guilds Mechanical Engineering
 
 * Based in the luxury resort of Kitzbuhel in Austria. 
 * I was responsible for guest transfers to and from the airport, monitoring flight times, and communicating with coach drivers. 
-* Resolve any guest issues, checkin with guests at hotels, and host ski tours.
+* Resolve any guest issues, check in with guests at hotels, and host ski tours.
 * An unpredictable and exciting role requiring teamwork, confidence, adaptability, interpersonal skills, and communication.
 
 Various(September 2008 - October 2014) <br>
