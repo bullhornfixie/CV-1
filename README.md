@@ -137,7 +137,7 @@ GE Life, Gissings(March 2006 - August 2008) <br>
 
 * Love the ocean - sailing, windsurfing, and sea swimming
 * Yoga and generally staying zen 
-* Collecting cool indie mags from //stack 
+* Collecting cool indie mags from [//stack](https://www.stackmagazines.com/)
 * Finding 80's/90's vinyl in European record shops 
 * Skiing  
 * Putting in miles on my Bianchi Racing Bike 
