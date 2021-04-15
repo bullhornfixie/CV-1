@@ -31,7 +31,7 @@ In pursuit of personal growth and following a passion for design, engineering an
 ## Current Project 
 
 **Project**: WaxOn <br>
-**Description**: An app which serves the surfing community by giving a visual representation of swell data in various locations to assess conditions. <br>
+**Description**: An app which serves the surfing community by giving a visual representation of swell data in various locations. <br>
 **API**: [Magicseaweed](https://magicseaweed.com/developer/sign-up) <br>
 **Tech Stack**: MERN <br>
 **Learning resource**: [Udemy](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/learn/lecture/16984934#overview) <br>
