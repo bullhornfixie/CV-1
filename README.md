@@ -56,7 +56,7 @@ I'm able to quickly build rapport with people and engage on a personal level. As
 I once pitched solo to the Financial Director of Hugo Boss at their HQ in Camden to manage their group pension scheme. This was on the edge of my comfort zone and I made it to the final 3 considerations. 
 
 ### Self Starter 
-In 2018, I wanted to live in Barcelona but had no connections in the City. In two weeks, I sourced an apartment, met a group of friends, co-working space to run my business, enrolled in Spanish school and met a girlfriend. With no network in a foreign environment I quickly established myself. 
+In 2018, I made a solo move to Barcelona...daunting. In two weeks, I sourced an apartment, met a group of friends, found a co-working space to run my business, enrolled in Spanish school and met a girlfriend. With no network in a foreign environment I quickly established myself. 
 
 ### Cool Under Pressure
 Whilst a ski guide in Kitzbuhel, Austria, I was hosting a tour with a group of guests and a heavy snow storm descended upon the mountain which caused all ski lifts to close. After 2 hours of seeking shelter in a restaurant, I chaperoned my 8 guests down the mountain and a family of 4 who became stranded. This was a test of critical thinking in an unexpected situation.
