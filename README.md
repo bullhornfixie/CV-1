@@ -30,12 +30,12 @@ In pursuit of personal growth and following a passion for design, engineering an
 
 ## Post Makers 
 
-**Project**: WaxOn
-**Description**: An app which serves the surfing community by giving a visual a representation of swell data in various locations (Magicseaweed alternative)
-**API**: [Magicseaweed](https://magicseaweed.com/developer/sign-up)
-**Tech Stack**: MERN
-**Learning resource**: [Udemy](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/learn/lecture/16984934#overview)
-**Data visualisation**: [Example](https://codepen.io/negan1911/pen/GLbBGm)
+**Project**: WaxOn <br>
+**Description**: An app which serves the surfing community by giving a visual a representation of swell data in various locations (Magicseaweed alternative) <br>
+**API**: [Magicseaweed](https://magicseaweed.com/developer/sign-up) <br>
+**Tech Stack**: MERN <br>
+**Learning resource**: [Udemy](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/learn/lecture/16984934#overview) <br>
+**Data visualisation**: [Example](https://codepen.io/negan1911/pen/GLbBGm) <br>
 
 ## Projects
 
