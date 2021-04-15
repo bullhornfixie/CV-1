@@ -19,7 +19,7 @@ Having spent hours in the conservatory as a kid, building Meccano cranes and car
 
 Fast forward to April 2015, I launched an outsourcing company in financial services with a modest £2,500. In 2020, my company secured a contract with one of the largest global fund managers. However, on reaching this peak I found myself itching for a fresh challenge and new dimensions to my daily role. 
 
-I discovered coding whilst sharing an office with a Creative Director. He said you’re a logical guy, with an eye for design and good with numbers, ever thought about becoming a developer? As an advocate of serendipity, I ordered a book called ‘Python in a day’ (good name, wishful thinking) and loved it from the word go but lost interest with the book. 
+I discovered coding whilst sharing an office with a Creative Director. He said you’re a logical guy, with an eye for design and good with numbers, ever thought about becoming a developer? As an advocate of serendipity, I ordered a book called ‘Python in a day’ (good name, wishful thinking) and loved it from the word go but lost interest in the book. 
 
 In pursuit of personal growth and following a passion for design, engineering and problem solving, I transitioned from 10 years in financial services into the world of development. I was accepted for a 16-week intense course with [Makers Academy](https://makers.tech/about-us/) in London and I am now a software engineer with canned enthusiasm and knowledge, seeking my first step onto my new career path!
 
@@ -74,7 +74,7 @@ Previously starting a business on a tight budget meant the luxury of a professio
 ## Education 
 [Makers Academy](https://makers.tech)(November 2020 to March 2021)
 
-A 16-week intensive development bootcamp, focusing on:
+A 16-week intensive development Bootcamp, focusing on:
 
 * Agile methodologies
 * Object-oriented design
@@ -129,7 +129,7 @@ GE Life, Gissings(March 2006 - August 2008) <br>
 * Based in the heart of the City 
 * Book 10 appointments per week for Brokers 
 * Required to have strong knowledge of employee benefits and pensions
-* FTSE 100, 250, and blue chip companies were target market 
+* FTSE 100, 250, and blue-chip companies were the target market 
 
 [Maranello](https://london-maranello.ferraridealers.com/en_gb/)(2002 - 2003) <br>
 *Motor Vehicle Technician*
