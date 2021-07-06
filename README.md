@@ -17,7 +17,7 @@
 
 Having spent hours in the conservatory as a kid, building Meccano cranes and cars, if there were components I could assemble to achieve a working model, I was all over it. Post school I studied mechanical engineering and secured apprenticeships with Ferrari and The British Touring Car Team. 
 
-The next chapter was a 10 year career in financial services. In November 2020, I decided to rekindle my passion for engineering, designm and problem solving and embarked on a 16-week intense course with [Makers Academy](https://makers.tech/about-us/) in London. 
+The next chapter was a 10 year career in financial services. In November 2020, I decided to rekindle my passion for engineering, design and problem solving and embarked on a 16-week intense course with [Makers Academy](https://makers.tech/about-us/) in London. 
 
 I graduated as a software engineer in March 2021 and now working with a software engineering studio in London, building high quality apps using the React Library. I found my niche in crafting bespoke React Components which were reusable across various projects and migrating legacy apps to this modern framework for improved performance and streamlined on-going maintenance. 
 
