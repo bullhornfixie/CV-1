@@ -15,17 +15,15 @@
 
 ## About Me 
 
-Having spent hours in the conservatory as a kid, building Meccano cranes and cars, if there were components I could assemble to achieve a working model, I was all over it. Post-school I studied mechanical engineering at college for 2 years and landed apprenticeships with a British touring car team and Maranellos/Ferrari.
+Having spent hours in the conservatory as a kid, building Meccano cranes and cars, if there were components I could assemble to achieve a working model, I was all over it. Post school I studied mechanical engineering and secured apprenticeships with Ferrari and The British Touring Car Team. 
 
-Fast forward to April 2015, I launched an outsourcing company in financial services with a modest £2,500. In 2020, my company secured a contract with one of the largest global fund managers. However, on reaching this peak I found myself itching for a fresh challenge and new dimensions to my daily role. 
+The next chapter was a 10 year in career in financial services and in November 2020, I decided to rekindle my passion for engineering, design and problem solving and embarked on a 16-week intense course with [Makers Academy](https://makers.tech/about-us/) in London and graduated as a software engineer in March 2021. 
 
-I discovered coding whilst sharing an office with a Creative Director. He said you’re a logical guy, with an eye for design and good with numbers, ever thought about becoming a developer? As an advocate of serendipity, I ordered a book called ‘Python in a day’ (good name, wishful thinking) and loved it from the word go but lost interest in the book. 
+Post grad, I have been enjoying working with a software engineering studio in London, building high quality apps using the React Library. I found my niche in crafting bespoke React Components which were reusable across various projects and migrating legacy apps to this modern framework for improved performance and streamlined on-going maintenance. 
 
-In pursuit of personal growth and following a passion for design, engineering and problem solving, I transitioned from 10 years in financial services into the world of development. I was accepted for a 16-week intense course with [Makers Academy](https://makers.tech/about-us/) in London and I am now a software engineer with canned enthusiasm and knowledge, seeking my first step onto my new career path!
-
-**Languages**: JavaScript, JSX, Ruby, JQuery, CSS, HTML <br>
-**Frameworks**: React Native, Rails, AWS <br>
-**Testing**: RSpec, Jasmine <br>
+**Languages**: JavaScript, CSS, HTML <br>
+**Frameworks**: React <br>
+**CMS**: Contentful <br>
 **Databases**: PostgreSQL <br>
 
 ## Current Project 
