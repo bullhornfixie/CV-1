@@ -129,7 +129,7 @@ GE Life, Gissings (March 2006 - August 2008) <br>
 * Required to have strong knowledge of employee benefits and pensions
 * FTSE 100, 250, and blue-chip companies were the target market 
 
-[Maranello](https://london-maranello.ferraridealers.com/en_gb/)(2002 - 2003) <br>
+[Maranello](https://london-maranello.ferraridealers.com/en_gb/) (2002 - 2003) <br>
 *Motor Vehicle Technician*
 
 * Official Ferrari dealer in Surrey 
