@@ -26,22 +26,12 @@ I graduated as a software engineer in March 2021 and now working with a software
 **CMS**: Contentful <br>
 **Databases**: PostgreSQL <br>
 
-## Current Project 
-
-**Project**: WaxOn <br>
-**Description**: An app that serves the surfing community by giving a visual representation of swell data in various locations. <br>
-**API**: [Magicseaweed](https://magicseaweed.com/docs/developers/59/api/9905/) <br>
-**Tech Stack**: MERN <br>
-**Learning Resource**: [Udemy](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/learn/lecture/16984934#overview) <br>
-**Data Visualisation**: [Example](https://codepen.io/negan1911/pen/GLbBGm) <br>
-
 ## Recent Projects
 
  Name                                                              | Description                                                                                                                                                                                                                                          | Tech/tools                           |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-| [Spring Onion](https://github.com/bullhornfixie/First-MobileApp-With-ReactNative) | A mobile app to track carbon emissions for a user's car journey with an offset feature.                                                 | React Native, Javascript      |
-| [Bank Account](https://github.com/bullhornfixie/tech-test-wk10-Makers)  | Final tech test for Makers. The purpose of this bank script is to print out a statement for a user, given their activity, like a real bank. Designed to allow customers to use usual bank account features such as credit/debiting an account and viewing the transactions.                                          | JavaScript,  Jasmine          |
-| [Acebook](https://github.com/bullhornfixie/acebook-BBB)   | A Facebook clone built using Ruby On Rails, PostGresSQL to manage user messages and deployed on Heroku. Users can create an account, make, edit, and delete posts, like posts, find and add friends.                    | Ruby On Rails, Ruby           |
+| Wild X Training | A mobile app for gym training programmes                                                | React Native, JavaScript, Contentful      |
+| Portfolio Ventures | A web app to connect investors with early stage tech companies                       | React, JavaScript Contentful          |
 
 ## Skills
 
@@ -93,6 +83,15 @@ Pension Transfer Specialist
 City & Guilds Mechanical Engineering 
 
 ## Experience 
+[Midnight Studio](https://www.midnightstudio.io/)(April 2021 - To Date)<br>
+*Software Engineer*
+
+* Working with leading design agencies and creative teams to build digital products 
+* Focus on front end development using the React Framework 
+* Striking a balance between clean code, quality design, and value for the client 
+* Collabratively delivering projects in a team of 4 software engineers 
+* Migration of legacy web apps to a modern framework for optimum performance and simplified on-going manintenance 
+
 [1to1 Paraplanning](https://1to1paraplanning.co.uk/)(April 2015 - November 2020)<br>
 *Operations Director*
 
