@@ -76,15 +76,15 @@ A 16-week intensive development Bootcamp, focusing on:
 [Royal Yachting Association (RYA)](https://www.rya.org.uk/courses-training/courses/sail-cruising/Pages/day-skipper.aspx) (Oct 2019) <br>
 Day Skipper 
 
-[Chartered Insurance Institute (CII)](https://www.cii.co.uk/)(2005 - 2010) <br>
+[Chartered Insurance Institute (CII)](https://www.cii.co.uk/) (2005 - 2010) <br>
 Diploma in Financial Planning <br>
 Pension Transfer Specialist 
 
-[Chichester College](https://www.chichester.ac.uk/)(2001 - 2002) <br>
+[Chichester College](https://www.chichester.ac.uk/) (2001 - 2002) <br>
 City & Guilds Mechanical Engineering 
 
 ## Experience 
-[Midnight Studio](https://www.midnightstudio.io/)(April 2021 - To Date)<br>
+[Midnight Studio](https://www.midnightstudio.io/) (April 2021 - To Date)<br>
 *Software Engineer*
 
 * Working with leading design agencies and creative teams to build digital products 
@@ -93,7 +93,7 @@ City & Guilds Mechanical Engineering
 * Collabratively delivering projects in a team of 4 software engineers 
 * Migration of legacy web apps to a modern framework for optimum performance and simplified on-going manintenance 
 
-[1to1 Paraplanning](https://1to1paraplanning.co.uk/)(April 2015 - November 2020)<br>
+[1to1 Paraplanning](https://1to1paraplanning.co.uk/) (April 2015 - November 2020)<br>
 *Operations Director*
 
 * Outsourced paraplanning and recruitment for the asset management sector. 
@@ -103,7 +103,7 @@ City & Guilds Mechanical Engineering
 * Created a paraplanning network and received 90+ registrations through the website. 
 * Acquired a reputable client base of global asset managers. 
 
-[Inghams](https://www.inghams.co.uk/ski-holidays)(December 2014 - March 2015) <br>
+[Inghams](https://www.inghams.co.uk/ski-holidays) (December 2014 - March 2015) <br>
 *Ski Resort Representative & Ski Guide*
 
 * Based in the luxury resort of Kitzbuhel in Austria. 
@@ -111,7 +111,7 @@ City & Guilds Mechanical Engineering
 * Resolve any guest issues, check in with guests at hotels, and host ski tours.
 * An unpredictable and exciting role requiring teamwork, confidence, adaptability, interpersonal skills, and communication.
 
-Various(September 2008 - October 2014) <br>
+Various (September 2008 - October 2014) <br>
 *Private Wealth Manager*
 
 * Regulated by the FCA 
@@ -121,7 +121,7 @@ Various(September 2008 - October 2014) <br>
 * Assets under management of over £12m
 * Build relationships with new clients 
 
-GE Life, Gissings(March 2006 - August 2008) <br>
+GE Life, Gissings (March 2006 - August 2008) <br>
 *Broker Support*
 
 * Based in the heart of the City 
