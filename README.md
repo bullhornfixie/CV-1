@@ -31,7 +31,7 @@ I graduated as a software engineer in March 2021 and now working with a software
  Name                                                              | Description                                                                                                                                                                                                                                          | Tech/tools                           |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
 | Wild X Training | A mobile app for gym training programmes                                                | React Native, JavaScript, Contentful      |
-| Portfolio Ventures | A web app to connect investors with early stage tech companies                       | React, JavaScript Contentful          | 
+| Portfolio Ventures | A web app to connect investors with early stage tech companies                       | React, JavaScript, Contentful          | 
 | React Component Library | Building a library of bespoke React components which can be used acrossed various projects | React, JavaScript |
 
 ## Skills
