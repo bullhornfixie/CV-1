@@ -32,7 +32,7 @@ I graduated as a software engineer in March 2021 and now working with a software
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
 | React Component Library 2.0 | A library of bespoke React components which can be used acrossed various projects [Explore](https://github.com/bullhornfixie/react-component-library-2.0) | React, JavaScript |
 | Wild X Training | A mobile app for gym training programmes                                                | React Native, JavaScript, Contentful      |
-| Portfolio Ventures | A web app to connect investors with early stage tech companies                       | React, JavaScript, Contentful          | 
+| Portfolio Ventures | A web app to connect investors with early stage tech companies [Explore] (https://portfolio-ventures-1iqp8i90n-midnight-studio-io.vercel.app/)                       | React, JavaScript, Contentful          | 
 
 ## Skills
 
