@@ -34,8 +34,8 @@ To expand upon my skillset as a React Front End Developer, I am currently learni
 
  Name                                                              | Description                                                                                                                                                                                                                                          | Tech/tools                           |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-<!-- | React Component Library 2.0 | A library of bespoke React components which can be used acrossed various projects [Explore](https://github.com/bullhornfixie/react-component-library-2.0) | React, JavaScript |
-| Wild X Training | A mobile app for gym training programmes                                                | React Native, JavaScript, Contentful      | -->
+| React Component Library 2.0 | A library of bespoke React components which can be used acrossed various projects [Explore](https://github.com/bullhornfixie/react-component-library-2.0) | React, JavaScript |
+| Wild X Training | A mobile app for gym training programmes                                                | React Native, JavaScript, Contentful      |
 | Portfolio Ventures | A web app to connect investors with early stage tech companies [Explore](https://portfolio-ventures-1iqp8i90n-midnight-studio-io.vercel.app/)                       | React, JavaScript, Contentful          | 
 
 ### Problem Solving 
