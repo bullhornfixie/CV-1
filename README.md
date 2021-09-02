@@ -28,7 +28,7 @@ I graduated as a software engineer in March 2021 and now working with a software
 
 ## Professional Development 
 
-To expand upon my skillset as a React Front End Developer, I am currently learning Three.js which is a JavaScript library to create and display 3D animations. This can be used to create engaging web apps, computer games, or even used to visualise data. [Explore](https://vercel.com/bullhornfixie/threejs-with-react)
+To expand upon my skillset as a React Front End Developer, I am currently learning Three.js which is a JavaScript library to create and display 3D animations. This can be used to create engaging web apps, computer games, or even used to visualise data. [Explore](https://threejs-with-react-nu.vercel.app/)
 
 ## Recent Projects
 
