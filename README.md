@@ -34,9 +34,12 @@ To expand upon my skillset as a React Front End Developer, I am currently learni
 
  Name                                                              | Description                                                                                                                                                                                                                                          | Tech/tools                           |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-| React Component Library 2.0 | A library of bespoke React components which can be used acrossed various projects [Explore](https://github.com/bullhornfixie/react-component-library-2.0) | React, JavaScript |
+| Portfolio Ventures | A web app to connect investors with early stage tech companies [Explore](https://portfolio-ventures-1iqp8i90n-midnight-studio-io.vercel.app/)                       | React, JavaScript, Contentful          |
+
+
+<!-- | React Component Library 2.0 | A library of bespoke React components which can be used acrossed various projects [Explore](https://github.com/bullhornfixie/react-component-library-2.0) | React, JavaScript |
 | Wild X Training | A mobile app for gym training programmes                                                | React Native, JavaScript, Contentful      |
-| Portfolio Ventures | A web app to connect investors with early stage tech companies [Explore](https://portfolio-ventures-1iqp8i90n-midnight-studio-io.vercel.app/)                       | React, JavaScript, Contentful          | 
+| Portfolio Ventures | A web app to connect investors with early stage tech companies [Explore](https://portfolio-ventures-1iqp8i90n-midnight-studio-io.vercel.app/)                       | React, JavaScript, Contentful          |  -->
 
 ### Problem Solving 
 When I launched an outsourced paraplanning company in financial services, we handled large volumes of client data via email or Dropbox. I could see this was a) not secure and b) difficult to manage. All my other competitors were using this method and I needed an alternative solution that was low cost but offered the functionality needed. Eventually, I found a startup called [Clinked](https://clinked.com/) who offered a client portal and they agreed to white label this for me on a startup price. I integrated this portal into the [website](https://1to1paraplanning.co.uk/) and we quickly gained a competitive edge with larger clients who had concerns over secure data sharing - problem solved. 
