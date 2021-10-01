@@ -93,9 +93,9 @@ City & Guilds Mechanical Engineering
 *Software Engineer*
 
 * Working with leading design agencies and creative teams to build digital products 
-* Focus on front end development using the React Framework 
+* Focus on developing UI with React 
 * Striking a balance between clean code, quality design, and value for the client 
-* Collabratively delivering projects in a team of 4 software engineers 
+* Working within a team of 4 senior software engineers 
 * Migration of legacy web apps to a modern framework for optimum performance and simplified on-going manintenance 
 
 [1to1 Paraplanning](https://1to1paraplanning.co.uk/) (April 2015 - November 2020)<br>
