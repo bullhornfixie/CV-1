@@ -19,10 +19,12 @@ Having spent hours in the conservatory as a kid, building Meccano cranes and car
 
 The next chapter was a 10 year career in financial services. In November 2020, I decided to rekindle my passion for engineering, design and problem solving and embarked on a 16-week intense course with [Makers Academy](https://makers.tech/about-us/) in London. 
 
-I graduated as a software engineer in March 2021 and now working with a software engineering studio in London, building high quality apps using the React Library. I found my niche in crafting bespoke React Components which were reusable across various projects and migrating legacy apps to this modern framework for improved performance and streamlined on-going maintenance. 
+On graduating from Makers in March 2021, I was fortunate to be offered a Junior Software Engineering role with a London based agency. I was straight in at the deep end, working on live projects with big brands such as Cartier and mentored by two Senior Developers. My ability in React quickly progressed, becoming in proficient in UseState, API Calls, Props and using Rebass for styling components in a clean and condensed way. 
+
+After 3 months, I was given the opportunity to use my previous financial services experience to build a project for a Venture Capital Trust - from ground zero to deployment. The experience has been invaluable to my progression and my long term aspirations gravitate towards a larger company with greater infrastructure, capacity for growth, and a single brand with multiple products where I can add value from previous product experirence.
 
 **Languages**: JavaScript, CSS, HTML <br>
-**Libraries**: React, Three.js, Three Fiber <br>
+**Libraries**: React, Three.js <br>
 **CMS**: Contentful <br>
 **Databases**: PostgreSQL <br>
 
@@ -62,8 +64,8 @@ In 2018, I made a daunting solo move to Barcelona. In two weeks, I sourced an ap
 ### Critical Thinking
 Whilst a ski guide in Kitzbuhel, Austria, I was hosting a tour with a group of guests and a heavy snowstorm descended upon the mountain which caused all ski lifts to close. After 2 hours of seeking shelter in a restaurant, I chaperoned my 8 guests down the mountain and a family of 4 who became stranded. Within minutes, I had to evaluate the safest route down the mountain based on several risk factors; group ability, minimum exposure to the elements, obstacles on each run such as narrow trails, moguls, and run gradient. Based on my intuition and logical thinking I managed to safely guide the group back to base. 
 
-### Front End Development 
-Previously starting a business on a tight budget meant the luxury of a professional developer/designer was absent. I taught myself CSS/HTML and built a commercially viable website on WordPress [1to1Paraplanning](https://1to1paraplanning.co.uk/). Makers Academy gave me the back-end tools I needed for a full-stack profile. 
+### Learner
+Previously starting a business on a tight budget meant the luxury of a professional developer/designer was absent. I taught myself CSS/HTML and built a commercially viable website on WordPress [1to1Paraplanning](https://1to1paraplanning.co.uk/). 
 
 ## Education 
 [Makers Academy](https://makers.tech)(November 2020 to March 2021)
@@ -145,12 +147,12 @@ GE Life, Gissings (March 2006 - August 2008) <br>
 
 ## Hobbies
 
-* Love the ocean - sailing, windsurfing, and sea swimming
+* Keen cyclist and recently joined a road biking club (now I've succumbed to cycling attire)
+* Qualified Skipper and Crew - competed in Cowes sailing week 2021 as crew on a racing yacht 
+* Coffee shop hopper and indie mag reader [//stack](https://www.stackmagazines.com/)
 * Yoga and generally staying zen 
-* Collecting cool indie mags from [//stack](https://www.stackmagazines.com/)
-* Finding 80's/90's vinyl in European record shops 
+* Finding 80's/90's vinyl from record shops in Europe 
 * Skiing  
-* Putting in miles on my Bianchi Racing Bike 
 * Architecture interests me 
 * Finding a documentary I haven't seen yet.
 
