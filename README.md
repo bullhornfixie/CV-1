@@ -19,7 +19,7 @@ Having spent hours in the conservatory as a kid, building Meccano cranes and car
 
 The next chapter was a 10 year career in financial services. In November 2020, I decided to rekindle my passion for engineering, design and problem solving and embarked on a 16-week intense course with [Makers Academy](https://makers.tech/about-us/) in London. 
 
-On graduating from Makers in March 2021, I was fortunate to be offered a Junior Software Engineering role with a London based agency. I was straight in at the deep end, working on live projects with big brands such as Cartier and mentored by two Senior Developers. My ability in React quickly progressed, becoming in proficient in UseState, API Calls, Props and using Rebass for styling components in a clean and condensed way. 
+On graduating from Makers in March 2021, I was fortunate to be offered a Junior Software Engineering role with a London based agency. I was straight in at the deep end, working on live projects with big brands such as Cartier and mentored by two Senior Developers. My ability in React quickly progressed, becoming proficient in UseState, API Calls, Props and using Rebass for styling components in a clean and condensed way. 
 
 After 3 months, I was given the opportunity to use my previous financial services experience to build a project for a Venture Capital Trust - from ground zero to deployment. The experience has been invaluable to my progression and my long term aspirations gravitate towards a larger company with greater infrastructure, capacity for growth, and a single brand with multiple products where I can add value from previous product experirence.
 
