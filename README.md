@@ -21,7 +21,7 @@ The next chapter was a 10 year career in financial services. In November 2020, I
 
 On graduating from Makers in March 2021, I was fortunate to be offered a Junior Software Engineering role with a London based agency. I was straight in at the deep end, working on live projects with big brands such as Cartier and mentored by two Senior Developers. My ability in React quickly progressed, becoming proficient in UseState, API Calls, Props and using Rebass for styling components in a clean and condensed way. 
 
-After 3 months, I was given the opportunity to use my previous financial services experience to build a project for a Venture Capital Trust - from ground zero to deployment. The experience has been invaluable to my progression and my long term aspirations gravitate towards a larger company with greater infrastructure, capacity for growth, and a single brand with multiple products where I can add value from previous product experirence.
+After 3 months, I was given the opportunity to use my previous financial services experience to build a project for a Venture Capital Trust - from ground zero to deployment. The experience has been invaluable to my progression and my long term aspirations gravitate towards a larger company with greater infrastructure, capacity for growth, and a single brand with multiple products where I can add value from previous product experience and eventually become a product owner within a solid team.
 
 **Languages**: JavaScript, CSS, HTML <br>
 **Libraries**: React, Three.js <br>
