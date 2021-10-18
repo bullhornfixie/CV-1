@@ -147,7 +147,7 @@ GE Life, Gissings (March 2006 - August 2008) <br>
 
 ## Hobbies
 
-* Keen cyclist and recently joined a road biking club (now I've succumbed to cycling attire)
+* Keen cyclist and recently joined a road biking club on Sunday mornings
 * Qualified Skipper and Crew - competed in Cowes sailing week 2021 as crew on a racing yacht 
 * Coffee shop hopper and indie mag reader [//stack](https://www.stackmagazines.com/)
 * Yoga and generally staying zen 
