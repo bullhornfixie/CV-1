@@ -64,7 +64,7 @@ In 2018, I made a daunting solo move to Barcelona. In two weeks, I sourced an ap
 ### Critical Thinking
 Whilst a ski guide in Kitzbuhel, Austria, I was hosting a tour with a group of guests and a heavy snowstorm descended upon the mountain which caused all ski lifts to close. After 2 hours of seeking shelter in a restaurant, I chaperoned my 8 guests down the mountain and a family of 4 who became stranded. Within minutes, I had to evaluate the safest route down the mountain based on several risk factors; group ability, minimum exposure to the elements, obstacles on each run such as narrow trails, moguls, and run gradient. Based on my intuition and logical thinking I managed to safely guide the group back to base. 
 
-### Learner
+### Creativity 
 Previously starting a business on a tight budget meant the luxury of a professional developer/designer was absent. I taught myself CSS/HTML and built a commercially viable website on WordPress [1to1Paraplanning](https://1to1paraplanning.co.uk/). 
 
 ## Education 
