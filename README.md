@@ -19,7 +19,7 @@ Having spent hours in the conservatory as a kid, building meccano cranes, puzzle
 
 Ambitous and seeking excitement over the slower pace of the South Coast, I persued a career in financial service and started out as a junior broker in the City. I quickly attained my diploma in financial planning and investment management and progressed to a private client manager and then launched my own company in 2015 providing technical outsourcing to the wealth management sector. This chapter gave me vast commercial experience. 
 
-In 2020, I found myself yearning to rekindle my passion for engineering and through a friend I was introduced to [Makers Academy](https://makers.tech/about-us/) which is a bootcamp to become a software engineer. That ticks all the boxes I said to myself and embarked on a 16-week intense course which formed the foundation of my career in tech - agile methodolgy, app design process, problem solving, working with multiple languages/frameworks and how to work within a developer team. 
+In 2020, I found myself yearning to rekindle my passion for engineering and through a friend I was introduced to [Makers Academy](https://makers.tech/about-us/). This ticks all the boxes I said! So I embarked on a 16-week intense course to become a software engineer, which formed the foundation of my career in tech - test driven developement, agile methodolgy, app design process, problem solving, working with multiple languages/frameworks and how to work within a developer team. 
 
 On graduating from Makers in March 2021, I was fortunate to be offered a Junior Software Engineering role with a London based agency. I was straight in at the deep end, working on live projects alongside senior developers who mentored me and accelerated my ability in React. 
 
