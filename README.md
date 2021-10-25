@@ -15,13 +15,15 @@
 
 ## About Me 
 
-Having spent hours in the conservatory as a kid, building Meccano cranes and cars, if there were components I could assemble to achieve a working model, I was all over it. Post school I studied mechanical engineering and secured apprenticeships with Ferrari and The British Touring Car Team. 
+Having spent hours in the conservatory as a kid, building meccano cranes, puzzles, lego...if there were components I could assemble to achieve a working model, I was all over it. Post school I studied mechanical engineering and secured apprenticeships with Ferrari and The British Touring Car Team until I was 18. 
 
-The next chapter was a 10 year career in financial services. In November 2020, I decided to rekindle my passion for engineering, design and problem solving and embarked on a 16-week intense course with [Makers Academy](https://makers.tech/about-us/) in London. 
+Ambitous and seeking excitement over the slower pace of the South Coast, I persued a career in financial service and started out as a junior broker in the City. I quickly attained my diploma in financial planning and investment management and progressed to a private client manager and then launched my own company in 2015 providing technical outsourcing to the wealth management sector. This chapter gave me vast commercial experience. 
 
-On graduating from Makers in March 2021, I was fortunate to be offered a Junior Software Engineering role with a London based agency. I was straight in at the deep end, working on live projects with big brands such as Cartier and mentored by two Senior Developers. My ability in React quickly progressed, becoming proficient in UseState, API Calls, Props and using Rebass for styling components in a clean and condensed way. 
+In 2020, I found myself yearning to rekindle my passion for engineering and through a friend I was introduced to [Makers Academy](https://makers.tech/about-us/) which is a bootcamp to become a software engineer. That ticks all the boxes I said to myself and embarked on a 16-week intense course which formed the foundation of my career in tech - agile methodolgy, app design process, problem solving, working with multiple languages/frameworks and how to work within a developer team. 
 
-After 3 months, I was given the opportunity to use my previous financial services experience to build a project for a Venture Capital Trust - from ground zero to deployment. The experience has been invaluable to my progression and my long term aspirations gravitate towards a larger company with greater infrastructure, capacity for growth, and a single brand with multiple products where I can add value from previous product experience and eventually become a product owner within a solid team.
+On graduating from Makers in March 2021, I was fortunate to be offered a Junior Software Engineering role with a London based agency. I was straight in at the deep end, working on live projects alongside senior developers who mentored me and accelerated my ability in React. 
+
+I am definitely someone who enjoys learning, a curious mind that wants to tinker, build, and fix things. Adventurer at heart who has been a ski guide in the alps, crewed for a racing yacht and travelled solo. I'm super neat and meticulous, my accountant used to laugh when I sent my books over as the figures were to the .00 and said do you even need me? Part of what I enjoy in the development process is structuring the code, applying your own style, and refactoring to make elements as effcicient as possible. 
 
 **Languages**: JavaScript, CSS, HTML <br>
 **Libraries**: React, Three.js <br>
