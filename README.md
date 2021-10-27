@@ -30,12 +30,10 @@ I am definitely someone who enjoys learning, a curious mind that wants to tinker
 **CMS**: Contentful <br>
 **Databases**: PostgreSQL <br>
 
-To expand upon my skillset as a React Front End Developer, I am currently learning Three.js which is a JavaScript library to create and display 3D animations. This can be used to create engaging web apps, computer games, or even used to visualise data. [Explore](https://threejs-with-react-nu.vercel.app/)
-
 ## Latest Project
 Now I am more than comfortable with React.js to build interfaces, my interest has diverted to 3D modelling using Three.js and WebGL and applying this an interface with React.js. My aim was to build some turntables that play music and a spinning vinyl when the user presses play. This was an enjoyable but ambitious project with multiple disciplines [audio, animation, geometry] and required problem solving at each step. I feel this project best demonstrates my creative thinking and ability as an engineer to bring an idea to life. 
 
-[View project in browser](https://audio-visual-lake.vercel.app/)
+[View project in browser](https://audio-visual-lake.vercel.app/) <br>
 [Production walkthrough and source code](https://github.com/bullhornfixie/audio-visual)
 
 <!--  Name                                                              | Description                                                                                                                                                                                                                                          | Tech/tools                           |
