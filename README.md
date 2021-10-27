@@ -45,7 +45,7 @@ Now I am more than comfortable with React.js to build interfaces, my interest ha
 | Wild X Training | A mobile app for gym training programmes                                                | React Native, JavaScript, Contentful      |
 | Portfolio Ventures | A web app to connect investors with early stage tech companies [Explore](https://portfolio-ventures-1iqp8i90n-midnight-studio-io.vercel.app/)                       | React, JavaScript, Contentful          |  -->
 
-### Problem Solving 
+### Commercial problem solving 
 When I launched an outsourced paraplanning company in financial services, we handled large volumes of client data via email or Dropbox. I could see this was a) not secure and b) difficult to manage. All my other competitors were using this method and I needed an alternative solution that was low cost but offered the functionality needed. Eventually, I found a startup called [Clinked](https://clinked.com/) who offered a client portal and they agreed to white label this for me on a startup price. I integrated this portal into the [website](https://1to1paraplanning.co.uk/) and we quickly gained a competitive edge with larger clients who had concerns over secure data sharing - problem solved. 
 
 ### Communication 
