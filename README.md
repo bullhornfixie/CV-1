@@ -30,16 +30,18 @@ I am definitely someone who enjoys learning, a curious mind that wants to tinker
 **CMS**: Contentful <br>
 **Databases**: PostgreSQL <br>
 
-## Professional Development 
-
 To expand upon my skillset as a React Front End Developer, I am currently learning Three.js which is a JavaScript library to create and display 3D animations. This can be used to create engaging web apps, computer games, or even used to visualise data. [Explore](https://threejs-with-react-nu.vercel.app/)
 
-## Recent Projects
+## Latest Project
+Now I am more than comfortable with React.js to build interfaces, my interest has diverted to 3D modelling using Three.js and WebGL and applying this an interface with React.js. My aim was to build some turntables that play music and a spinning vinyl when the user presses play. This was an enjoyable but ambitious project with multiple disciplines [audio, animation, geometry] and required problem solving at each step. I feel this project best demonstrates my creative thinking and ability as an engineer to bring an idea to life. 
 
- Name                                                              | Description                                                                                                                                                                                                                                          | Tech/tools                           |
+[View project in browser](https://audio-visual-lake.vercel.app/)
+[Production walkthrough and source code](https://github.com/bullhornfixie/audio-visual)
+
+<!--  Name                                                              | Description                                                                                                                                                                                                                                          | Tech/tools                           |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
 | Portfolio Ventures | A web app to connect investors with early stage tech companies [Explore](https://portfolio-ventures-1iqp8i90n-midnight-studio-io.vercel.app/)                       | React, JavaScript, Contentful          |
-
+ -->
 
 <!-- | React Component Library 2.0 | A library of bespoke React components which can be used acrossed various projects [Explore](https://github.com/bullhornfixie/react-component-library-2.0) | React, JavaScript |
 | Wild X Training | A mobile app for gym training programmes                                                | React Native, JavaScript, Contentful      |
@@ -67,7 +69,7 @@ In 2018, I made a daunting solo move to Barcelona. In two weeks, I sourced an ap
 Whilst a ski guide in Kitzbuhel, Austria, I was hosting a tour with a group of guests and a heavy snowstorm descended upon the mountain which caused all ski lifts to close. After 2 hours of seeking shelter in a restaurant, I chaperoned my 8 guests down the mountain and a family of 4 who became stranded. Within minutes, I had to evaluate the safest route down the mountain based on several risk factors; group ability, minimum exposure to the elements, obstacles on each run such as narrow trails, moguls, and run gradient. Based on my intuition and logical thinking I managed to safely guide the group back to base. 
 
 ### Creativity 
-Previously starting a business on a tight budget meant the luxury of a professional developer/designer was absent. I taught myself CSS/HTML and built a commercially viable website on WordPress [1to1Paraplanning](https://1to1paraplanning.co.uk/). 
+I'm a creative thinker who understands the fundamentals of design and able to bring ideas to life through my engineering ability. I've worked alongside designers to deliver projects with a shared vision in mind for the end result. 
 
 ## Education 
 [Makers Academy](https://makers.tech)(November 2020 to March 2021)
