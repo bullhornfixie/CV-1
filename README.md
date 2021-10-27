@@ -45,7 +45,7 @@ Now I am more than comfortable with React.js to build interfaces, my interest ha
 | Wild X Training | A mobile app for gym training programmes                                                | React Native, JavaScript, Contentful      |
 | Portfolio Ventures | A web app to connect investors with early stage tech companies [Explore](https://portfolio-ventures-1iqp8i90n-midnight-studio-io.vercel.app/)                       | React, JavaScript, Contentful          |  -->
 
-### Problem solving 
+### Problem Solving 
 When I launched an outsourced paraplanning company in financial services, we handled large volumes of client data via email or Dropbox. I could see this was a) not secure and b) difficult to manage. All my other competitors were using this method and I needed an alternative solution that was low cost but offered the functionality needed. Eventually, I found a startup called [Clinked](https://clinked.com/) who offered a client portal and they agreed to white label this for me on a startup price. I integrated this portal into the [website](https://1to1paraplanning.co.uk/) and we quickly gained a competitive edge with larger clients who had concerns over secure data sharing - problem solved. 
 
 ### Communication 
@@ -66,7 +66,7 @@ In 2018, I made a daunting solo move to Barcelona. In two weeks, I sourced an ap
 ### Critical Thinking
 Whilst a ski guide in Kitzbuhel, Austria, I was hosting a tour with a group of guests and a heavy snowstorm descended upon the mountain which caused all ski lifts to close. After 2 hours of seeking shelter in a restaurant, I chaperoned my 8 guests down the mountain and a family of 4 who became stranded. Within minutes, I had to evaluate the safest route down the mountain based on several risk factors; group ability, minimum exposure to the elements, obstacles on each run such as narrow trails, moguls, and run gradient. Based on my intuition and logical thinking I managed to safely guide the group back to base. 
 
-### Creativity 
+### Creative Thinking
 I'm a creative thinker who understands the fundamentals of design and able to bring ideas to life through my engineering ability. I've worked alongside designers to deliver projects with a shared vision in mind for the end result. 
 
 ## Education 
