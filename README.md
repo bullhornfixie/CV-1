@@ -28,7 +28,7 @@ In my spare time, I like to travel around Europe, windsurf, compete in road cycl
 **CMS**: Contentful <br>
 **Databases**: PostgreSQL <br>
 
-## Commercial Project 2020
+## Commercial Projects 2020
 [Portfolio Ventures](https://portfolio.ventures/)
 
 <!--  Name                                                              | Description                                                                                                                                                                                                                                          | Tech/tools                           |
