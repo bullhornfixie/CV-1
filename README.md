@@ -17,7 +17,7 @@
 
 I grew up on the South Coast of England and always had a passion for building things, from meccanno in the conservatory as a kid to rebuilding engines whilst studying mechnanical engineering at college. 
 
-As a creative individual with a technical brain, programming gave me an alternative to a fruitful but outgrown career in financial services. After getting my hands wet with a learn coding in a day book (good bit of marketing) I enrolled in a 16 week coding bootcamp using Ruby to build group projects and learning agile software development.
+As a creative individual with a technical brain, programming gave me an alternative to a fruitful but outgrown career in financial services. After my coding debut with a learn coding in a day book (good bit of marketing) I enrolled in a 16 week coding bootcamp using Ruby to build group projects and learning agile software development.
 
 I now work with creative agencies in London, helping them design, build, and ship digital products for growing and big brands. I really enjoy the journey of starting with an idea to seeing a live app which is highly functional and well designed to deliver an enjoyable user experience.
 
