@@ -31,10 +31,6 @@ In my spare time, I like to travel around Europe, windsurf, compete in road cycl
 ## Commercial Project 2020
 [Portfolio Ventures](https://portfolio.ventures/)
 
-## Personal Project 2020
-[WebGL](https://audio-visual-lake.vercel.app/) <br>
-[Production walkthrough and source code](https://github.com/bullhornfixie/audio-visual)
-
 <!--  Name                                                              | Description                                                                                                                                                                                                                                          | Tech/tools                           |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
 | Portfolio Ventures | A web app to connect investors with early stage tech companies [Explore](https://portfolio-ventures-1iqp8i90n-midnight-studio-io.vercel.app/)                       | React, JavaScript, Contentful          |
@@ -95,11 +91,11 @@ City & Guilds Mechanical Engineering
 [Midnight Studio](https://www.midnightstudio.io/) (April 2021 - To Date)<br>
 *Software Engineer*
 
-* Working with leading design agencies and creative teams to build digital products 
-* Focus on developing UI with React 
-* Striking a balance between clean code, quality design, and value for the client 
-* Working within a team of 4 senior software engineers 
-* Migration of legacy web apps to a modern framework for optimum performance and simplified on-going manintenance 
+* Working with growing and established brands to design, build, and ship digital products 
+* Predominately front end development using React 
+* Following a centrailised tech stack and best practices 
+* Working within a team of four senior software engineers, UX consultant, and designers
+* Interacting with clients to understand their product needs and feedback 
 
 [1to1 Paraplanning](https://1to1paraplanning.co.uk/) (April 2015 - November 2020)<br>
 *Operations Director*
