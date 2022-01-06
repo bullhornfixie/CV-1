@@ -15,25 +15,24 @@
 
 ## About Me 
 
-Having spent hours in the conservatory as a kid, building meccano cranes, puzzles, lego...if there were components I could assemble to achieve a working model, I was all over it. Post school I studied mechanical engineering and secured apprenticeships with Ferrari and The British Touring Car Team until I was 18. 
+I grew up on the South Coast of England and always had a passion for building things, from meccanno in the conservatory as a kid to rebuilding engines whilst studying mechnanical engineering at college. 
 
-Ambitous and seeking excitement over the slower pace of the South Coast, I persued a career in financial services and started out as a Junior Broker in the City. I quickly attained my diploma in investment management and progressed to a private client manager and then launched my own company in 2015 providing technical outsourcing to the wealth management sector. This chapter gave me vast commercial experience. 
+As a creative individual with a technical brain, programming gave me an alternative to a fruitful but outgrown career in financial services. After getting my hands wet with a learn coding in a day book (good bit of marketing) I enrolled in a 16 week coding bootcamp using Ruby to build group projects and learning agile software development.
 
-In 2020, I found myself yearning to rekindle my passion for engineering and through a friend I was introduced to [Makers Academy](https://makers.tech/about-us/). This ticks all the boxes I said! So I embarked on a 16-week intense course to become a Junior Software Engineer, which formed the foundation of my career in tech - test driven developement, agile methodolgy, app design process, problem solving, working with multiple languages/frameworks and collaborative programming. I would say the ONE key skill you learn from Makers is how to find solutions to problems yourself and asking the right questions. 
+I now work with creative agencies in London, helping them design, build, and ship digital products for growing and big brands. I really enjoy the journey of starting with an idea to seeing a live app which is highly functional and well designed to deliver an enjoyable user experience.
 
-On graduating from Makers in March 2021, I was fortunate to be offered a Junior Software Engineering role with a London based agency. I was straight in at the deep end, working on live projects alongside senior developers who mentored me and accelerated my ability in React. 
-
-I am definitely someone who enjoys learning, a curious mind that wants to tinker, build, and fix things. Adventurer at heart who has been a ski guide in the alps, crewed for a racing yacht and travelled solo. I'm super neat and meticulous, my accountant used to laugh when I sent my books over as the figures were to the .00 and said do you even need me? Part of what I enjoy in the development process is structuring the code, applying your own style, and refactoring to make elements as effcicient as possible. 
+In my spare time, I like to travel around Europe, windsurf, compete in road cycling events, sail, and take pictures with my Olympus EE-2.
 
 **Languages**: JavaScript, CSS, HTML <br>
-**Libraries**: React, Three.js <br>
+**Libraries**: React, Three.js, Next.js <br>
 **CMS**: Contentful <br>
 **Databases**: PostgreSQL <br>
 
-## Latest Project
-Now I am more than comfortable with React.js to build interfaces, my interest has diverted to 3D modelling using Three.js and WebGL and applying models to an interface. My aim was to build some turntables that play music and a spinning vinyl when the user presses play. This was an enjoyable but ambitious project with multiple disciplines [audio, animation, geometry] and required problem solving at each step. I feel this project best demonstrates my creative thinking and ability as an engineer to bring an idea to life. 
+## Commercial Project 2020
+[Portfolio Ventures](https://portfolio.ventures/)
 
-[View project in browser](https://audio-visual-lake.vercel.app/) <br>
+## Personal Project 2020
+[WebGL](https://audio-visual-lake.vercel.app/) <br>
 [Production walkthrough and source code](https://github.com/bullhornfixie/audio-visual)
 
 <!--  Name                                                              | Description                                                                                                                                                                                                                                          | Tech/tools                           |
