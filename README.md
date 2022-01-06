@@ -1,6 +1,8 @@
 <h1 align="center">Jon Dawson CV</h1>
 
 <div align="center">
+ 
+[LinkedIn](https://www.linkedin.com/in/jondawson87/)
 
 <!-- [About Me ](#aboutme)|
 [Projects ](#projects) |
@@ -20,7 +22,6 @@ As a creative individual with a technical brain, programming gave me an alternat
 I now work with creative agencies in London, helping them design, build, and ship digital products for growing and big brands. I really enjoy the journey of starting with an idea to seeing a live app which is highly functional and well designed to deliver an enjoyable user experience.
 
 In my spare time, I like to travel around Europe, windsurf, compete in road cycling events, sail, and take pictures with my Olympus EE-2.
-[My LinkedIn](https://www.linkedin.com/in/jondawson87/)
 
 **Languages**: JavaScript, CSS, HTML <br>
 **Libraries**: React, Three.js, Next.js <br>
